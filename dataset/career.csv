@@ -1,0 +1,9 @@
+career_id,career_name,career_type,threshold,recommended_activities,required_skills
+1,Science,Stream,75,"Coding,Mathematics,Biology","Logical thinking,Analysis"
+2,Commerce,Stream,65,"Economics,Debate,Mathematics","Numerical skills,Communication"
+3,Arts,Stream,55,"Art,Music,Debate","Creativity,Expression"
+4,Engineer,Profession,80,"Coding,Mathematics,Physics","Problem solving,Programming"
+5,Doctor,Profession,85,"Biology,Chemistry","Observation,Discipline"
+6,Chartered Accountant,Profession,75,"Accounts,Economics",Numerical accuracy
+7,Artist,Profession,65,"Art,Music",Creativity
+8,Sports Professional,Profession,70,"Football,Cricket,Athletics","Endurance,Teamwork"

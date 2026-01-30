@@ -1,0 +1,1001 @@
+student_id,name,dob,class,board,school,actual_career_id,predicted_career_id
+1,Katelyn Roberts,2010-03-19,9,ICSE,Turner Group,1,NULL
+2,Kayla Lucas,2010-07-02,8,ICSE,"Gibson, Smith and Torres",3,NULL
+3,Rhonda Merritt,2009-10-27,11,ICSE,"Williams, Hull and Anderson",4,NULL
+4,Erik Chavez,2009-04-29,12,CBSE,Daniels Group,4,NULL
+5,Megan Anderson,2007-07-28,9,State Board,Ray Ltd,1,NULL
+6,Elijah Molina,2008-09-29,9,State Board,Hartman-Rivas,2,NULL
+7,Kristina Perez,2009-07-21,11,CBSE,Byrd PLC,7,NULL
+8,Teresa Malone,2010-03-09,11,ICSE,Ortega-Martinez,8,NULL
+9,Andres Williams,2009-06-08,9,State Board,"Quinn, Gregory and Ramirez",1,NULL
+10,Mary Berry,2009-09-03,9,ICSE,Young-Wilson,1,NULL
+11,Gloria Rubio,2008-03-11,11,State Board,Johnson Inc,8,NULL
+12,Jeffrey Smith,2007-02-12,9,ICSE,"Reynolds, Chavez and Hanson",3,NULL
+13,Michael Taylor,2008-11-01,11,CBSE,Jenkins-Miller,4,NULL
+14,Maria Harrison,2009-01-29,12,CBSE,Hale Inc,7,NULL
+15,Allison Mcguire,2010-06-17,11,ICSE,Thomas LLC,4,NULL
+16,Willie Anderson,2010-06-10,12,State Board,Sanchez and Sons,5,NULL
+17,Mr. Ryan Rubio,2010-04-29,8,ICSE,Dougherty-Alexander,2,NULL
+18,Mary Murillo,2010-06-06,10,State Board,Williams-Martinez,1,NULL
+19,Hannah Sanchez,2009-09-19,11,State Board,Watson and Sons,8,NULL
+20,Darryl Williams,2007-06-26,8,State Board,"Smith, Fuller and Martin",3,NULL
+21,Amanda Zimmerman,2011-01-02,10,CBSE,"Moore, Gray and Bryant",1,NULL
+22,Andrew Hall,2007-07-27,8,CBSE,"Wells, Smith and Obrien",1,NULL
+23,Jason Morris,2008-10-30,11,ICSE,Smith-Fitzpatrick,7,NULL
+24,Tammy Johnson,2008-02-28,10,ICSE,Miller-Mendez,2,NULL
+25,Kevin Gutierrez,2007-12-13,12,ICSE,"Suarez, Holland and Mcdaniel",7,NULL
+26,Charles Stone,2008-07-16,8,ICSE,"Cooper, Clark and Scott",3,NULL
+27,Steven Wilson,2009-10-16,12,State Board,"Lee, Spencer and Watson",6,NULL
+28,Joseph Baxter,2010-09-15,11,CBSE,Wilcox and Sons,6,NULL
+29,Gregory Garcia,2009-04-26,9,State Board,Woods-Smith,3,NULL
+30,Alexandra Noble,2007-04-11,10,CBSE,Curtis-Lopez,2,NULL
+31,Justin Garner,2008-07-26,8,ICSE,Munoz Ltd,2,NULL
+32,Cheyenne Gaines,2008-04-29,11,CBSE,Hernandez-Pena,7,NULL
+33,Bonnie Mendez MD,2009-02-10,9,ICSE,Stokes-Kelly,2,NULL
+34,Christine Taylor,2009-08-29,10,State Board,"Love, Jackson and Williams",2,NULL
+35,Stephen Jenkins,2008-07-05,8,State Board,Khan-Jimenez,3,NULL
+36,Martha Hall,2008-02-01,10,CBSE,Gonzalez-Garcia,1,NULL
+37,Suzanne Cochran,2007-02-08,11,CBSE,"Haynes, Wilson and Harmon",5,NULL
+38,Kimberly Jackson,2008-06-15,11,CBSE,"Brown, Ward and Warren",6,NULL
+39,John Moss,2007-03-19,10,ICSE,Walker-Bowman,2,NULL
+40,Sarah Foster,2010-05-30,9,ICSE,"Myers, Nguyen and Johnson",2,NULL
+41,Jessica Ryan,2007-09-09,10,ICSE,Jordan-Barrera,2,NULL
+42,Audrey Moran,2008-02-06,11,State Board,Poole Inc,5,NULL
+43,Patricia Schroeder,2009-12-27,12,ICSE,Wilson Ltd,5,NULL
+44,Tiffany Rivera,2007-07-22,10,ICSE,Jones LLC,3,NULL
+45,Danielle Davis,2007-01-27,11,ICSE,Mills Ltd,4,NULL
+46,Theresa Long,2008-07-30,10,ICSE,Powers Ltd,1,NULL
+47,Fernando Bass,2007-03-02,8,State Board,Hernandez PLC,2,NULL
+48,Cynthia Lee,2010-11-11,8,State Board,Fitzpatrick PLC,1,NULL
+49,Aimee Rogers,2009-01-07,11,State Board,"Pratt, Wolfe and Frye",7,NULL
+50,Steven Brown,2007-05-11,11,ICSE,Rogers-Brown,7,NULL
+51,Rachel Smith,2010-03-09,11,CBSE,"Roberts, Fowler and Valentine",7,NULL
+52,William Freeman,2008-02-15,8,State Board,Duncan-Phillips,3,NULL
+53,Erica Baker,2009-05-26,8,ICSE,Harris and Sons,3,NULL
+54,Amanda Lopez,2007-07-27,12,CBSE,Diaz-Jackson,4,NULL
+55,Derek Cole,2009-03-14,11,State Board,"Cline, Thomas and Bowers",5,NULL
+56,Michelle Hansen,2010-11-05,9,ICSE,Gilmore Group,1,NULL
+57,James Richardson,2007-08-30,8,State Board,Short-Buchanan,1,NULL
+58,Michael Zhang,2007-08-16,11,CBSE,"Roberts, Jennings and Sims",7,NULL
+59,Kristen Osborne,2010-08-29,8,State Board,Thomas-Wells,3,NULL
+60,Linda Herman,2008-12-21,9,State Board,Mckinney-Garcia,2,NULL
+61,Elizabeth Sanchez,2007-06-08,12,State Board,Fleming-Fleming,6,NULL
+62,Adam Jenkins,2009-06-06,12,CBSE,Robles-Hernandez,6,NULL
+63,Jay Leonard,2009-02-27,8,CBSE,Patterson-Guerra,2,NULL
+64,Mrs. Tina Richards,2009-06-04,11,State Board,Collier-Richardson,6,NULL
+65,Priscilla Heath,2008-08-22,8,CBSE,"Spence, Waters and Cruz",1,NULL
+66,Mr. Carl Pace,2007-01-27,10,CBSE,Lopez-Douglas,2,NULL
+67,Scott Townsend,2010-08-14,12,ICSE,"Wilkerson, Hanna and Mason",7,NULL
+68,David Schultz,2009-07-14,10,CBSE,"Dean, Stark and Walters",2,NULL
+69,Sean Rios,2007-01-31,12,CBSE,Bennett-Ramirez,4,NULL
+70,Christina Russo,2008-09-27,9,CBSE,Morrison Inc,1,NULL
+71,Erin Myers,2009-05-26,10,State Board,Bell-Stuart,1,NULL
+72,Brenda Smith,2008-02-05,8,CBSE,Osborn-Allen,1,NULL
+73,Emily George,2008-03-05,10,ICSE,"Lee, Anderson and Martinez",3,NULL
+74,Robert Richards,2011-01-06,9,CBSE,Donaldson Inc,3,NULL
+75,John Aguirre,2009-08-02,8,CBSE,Key Ltd,2,NULL
+76,Cassidy Murillo,2009-08-21,10,State Board,Galvan and Sons,2,NULL
+77,Christopher Henderson,2007-07-25,10,CBSE,"Bowen, Fisher and Short",2,NULL
+78,Heather Boyd,2008-04-07,12,ICSE,Medina-Russo,6,NULL
+79,Maria Brooks,2007-12-29,8,State Board,Caldwell PLC,1,NULL
+80,Michael Villarreal,2007-09-25,12,State Board,Johnson Ltd,7,NULL
+81,Melissa Waller,2007-07-31,10,CBSE,Roberts Inc,1,NULL
+82,Michael Mills,2010-06-08,9,CBSE,Hill-Harrison,1,NULL
+83,Felicia Scott,2009-03-06,12,State Board,"Duncan, Calderon and Wang",8,NULL
+84,David Walls,2010-10-02,9,State Board,Roberson and Sons,1,NULL
+85,Kelly Cooper,2007-11-17,11,CBSE,Henderson Group,6,NULL
+86,Autumn Guzman,2010-07-01,8,State Board,"Rocha, Rowe and Perry",3,NULL
+87,Christopher Stewart,2008-06-13,8,State Board,"Norman, Moore and Smith",2,NULL
+88,Kelly Nichols,2009-10-30,11,ICSE,"Castaneda, Brown and Johnson",5,NULL
+89,Michelle Chase,2010-01-20,12,State Board,Smith Inc,7,NULL
+90,Eric Oconnell,2007-03-29,9,CBSE,Weaver-Anthony,2,NULL
+91,Brian Mccarthy,2010-03-29,8,State Board,"Chambers, Stone and Dean",1,NULL
+92,Joshua Gardner,2010-10-19,9,ICSE,"Pope, Shaw and Russell",1,NULL
+93,Robert Harrison,2010-09-03,9,ICSE,Garcia LLC,2,NULL
+94,Craig Ford,2007-07-18,10,State Board,Smith-Salazar,3,NULL
+95,Ryan Sanders,2009-11-06,10,State Board,"Farmer, Taylor and Long",2,NULL
+96,Brooke Johnson,2009-07-04,9,CBSE,Weaver-Johnson,2,NULL
+97,Alexis Gonzalez,2010-04-13,11,State Board,Blankenship Group,6,NULL
+98,Angela Flores,2010-04-10,10,CBSE,"Johnson, Stewart and Jones",1,NULL
+99,Devon Stewart,2007-01-21,8,State Board,"Hampton, Perez and Espinoza",2,NULL
+100,Holly Meyer,2010-08-24,9,ICSE,"Cox, Williams and Cohen",1,NULL
+101,Joann Robertson,2009-07-02,9,ICSE,"Rodriguez, Strickland and Wilson",2,NULL
+102,Julie Mendoza,2009-10-13,12,ICSE,"Thomas, Rich and Ellis",5,NULL
+103,Kevin Norris,2008-02-03,10,CBSE,Kemp-Carter,1,NULL
+104,Brian Ramos,2007-08-15,8,CBSE,"Phillips, Patel and Dixon",3,NULL
+105,Valerie Murray,2010-07-17,11,State Board,Nelson and Sons,7,NULL
+106,Miguel Meadows,2008-03-05,10,CBSE,Cooper-Young,1,NULL
+107,Jacob Holmes,2007-11-30,8,ICSE,Clayton-Jensen,1,NULL
+108,Luke Murphy Jr.,2007-01-28,9,State Board,Berger-Brooks,1,NULL
+109,April Nguyen,2010-12-19,10,State Board,Franklin Ltd,1,NULL
+110,Alicia Ramos,2007-05-28,11,State Board,Smith-Hart,8,NULL
+111,Mrs. Eileen Howell,2008-06-17,11,CBSE,Mcfarland-Warren,4,NULL
+112,Adam Peterson,2010-07-16,9,CBSE,Jones-Mccoy,1,NULL
+113,Lisa Stephens,2008-01-20,9,State Board,"Turner, White and Smith",2,NULL
+114,Madison Anderson,2007-09-26,8,ICSE,Hopkins LLC,1,NULL
+115,Daryl Austin,2007-09-01,12,State Board,Jensen-Rodriguez,5,NULL
+116,Elizabeth Williams,2008-02-26,9,State Board,"Douglas, Cook and Blankenship",2,NULL
+117,Kristen Manning,2010-04-19,10,CBSE,"Fisher, Ramirez and Patton",1,NULL
+118,Deborah Kelley,2009-02-27,11,CBSE,"Simmons, Brooks and Sherman",7,NULL
+119,Amanda Serrano,2010-04-14,10,ICSE,"Watson, Pham and Lopez",2,NULL
+120,Johnathan Little,2007-07-06,9,State Board,Martin-Smith,3,NULL
+121,Rebecca Harris,2010-10-21,11,ICSE,Clark-Bradley,7,NULL
+122,Laura Erickson,2008-05-10,10,State Board,Hancock Ltd,1,NULL
+123,Kimberly Davidson,2007-09-29,12,ICSE,Reed-Hobbs,4,NULL
+124,Betty Dixon,2008-07-06,12,State Board,Harmon Inc,4,NULL
+125,Cassandra Lambert,2010-01-21,11,State Board,Anderson-Stone,8,NULL
+126,Peter Anderson,2009-10-16,10,State Board,Soto Inc,1,NULL
+127,Alan Dawson,2009-01-25,10,CBSE,Williamson-Hill,1,NULL
+128,Steven Johnston,2009-04-21,8,CBSE,"Ritter, Love and Kemp",3,NULL
+129,Curtis Wallace,2007-01-30,8,State Board,"Holmes, Glenn and Dunn",3,NULL
+130,Christopher Lewis,2009-04-24,10,State Board,"Phillips, Smith and Martin",3,NULL
+131,Christine Wiley,2009-09-15,12,State Board,Floyd Group,4,NULL
+132,Melissa Allen,2008-09-06,12,ICSE,"Smith, Brennan and Lawrence",4,NULL
+133,Mary Perez,2009-06-17,8,CBSE,Flores-Rich,3,NULL
+134,Jose Walker,2009-09-04,11,ICSE,Lee Inc,6,NULL
+135,Tracy Mora,2008-05-28,9,ICSE,"Martin, Fernandez and Hurst",1,NULL
+136,Alexis Ho,2009-05-13,10,CBSE,Woodard-Woods,3,NULL
+137,Megan Walter,2007-10-27,10,CBSE,"Burke, Stokes and Ortega",1,NULL
+138,Cynthia Jones,2010-10-09,12,CBSE,Arnold Inc,4,NULL
+139,Shawn Martinez,2010-11-27,10,State Board,"Douglas, Holmes and Garcia",1,NULL
+140,Nicole Kelly,2010-05-26,12,State Board,Wheeler-Young,8,NULL
+141,Kathryn Williams,2008-12-20,11,State Board,Wells-Gilmore,8,NULL
+142,Richard Terry,2008-07-08,9,CBSE,Lynch Group,3,NULL
+143,Laura Martinez,2009-07-30,8,CBSE,Morrison-Smith,1,NULL
+144,Ana Spence,2009-09-11,11,State Board,Jennings and Sons,8,NULL
+145,Thomas Barker,2008-05-24,12,ICSE,Bowman-Henderson,5,NULL
+146,Elizabeth Rivera,2010-04-06,12,CBSE,"Phillips, Walker and Jones",8,NULL
+147,Miss Catherine Vaughn,2008-03-16,11,ICSE,Ross-Luna,4,NULL
+148,Katie Elliott,2009-05-12,8,ICSE,"Price, Taylor and Wells",2,NULL
+149,Alexander Banks,2007-07-03,8,CBSE,Garner-Stevenson,1,NULL
+150,Sandra Carrillo,2008-12-27,8,CBSE,"Brown, Moore and Villarreal",2,NULL
+151,Emily Odonnell,2007-07-14,9,ICSE,Tyler Ltd,2,NULL
+152,Joan Murphy,2008-12-01,9,ICSE,Duran-Johnson,2,NULL
+153,Robert Smith,2007-07-17,9,CBSE,Obrien-Long,3,NULL
+154,Timothy Rasmussen,2010-01-17,12,ICSE,"Smith, Williams and Erickson",8,NULL
+155,Jeffrey Price MD,2007-03-04,9,CBSE,Lee-Ryan,1,NULL
+156,James Nichols,2008-04-02,12,ICSE,Costa PLC,7,NULL
+157,Matthew Ortiz,2007-10-09,11,CBSE,Lane-Holland,6,NULL
+158,Stephanie Smith,2008-07-08,9,State Board,Spears Group,1,NULL
+159,Cody Allen,2010-05-13,12,State Board,Bradley-French,8,NULL
+160,Laura Brown,2008-02-07,11,CBSE,Burke PLC,7,NULL
+161,Jordan Fowler,2007-01-21,9,ICSE,Vega and Sons,2,NULL
+162,Corey Robbins,2009-01-03,12,State Board,Myers-Weaver,5,NULL
+163,Timothy Foster,2009-08-10,12,State Board,"Wilson, Brown and Rose",4,NULL
+164,Blake Robinson,2008-02-04,8,CBSE,"West, Michael and Johnson",1,NULL
+165,Nicholas Costa,2009-06-04,10,CBSE,Brandt-Nixon,1,NULL
+166,Madison Evans,2009-04-06,11,State Board,Freeman-Shepard,6,NULL
+167,Mindy Meyer,2010-08-29,9,CBSE,Clark-Garcia,3,NULL
+168,Shane Moon MD,2010-04-27,11,CBSE,Sutton LLC,6,NULL
+169,Chris Price,2009-06-05,10,State Board,Cook-Dillon,3,NULL
+170,Michael Singh,2007-02-28,10,ICSE,Boyer Inc,3,NULL
+171,Catherine Harris,2007-10-11,12,CBSE,"Orozco, Prince and Mckinney",4,NULL
+172,Jaime Armstrong,2010-05-06,10,ICSE,"Tucker, Martinez and Rodriguez",1,NULL
+173,Stephen Hutchinson,2009-04-06,9,CBSE,Mayer and Sons,3,NULL
+174,Benjamin Hill,2008-04-17,12,CBSE,Williams-Martinez,7,NULL
+175,Mark Anderson,2010-03-23,12,ICSE,Christian-Baird,6,NULL
+176,Johnathan Johnson,2007-12-11,10,ICSE,Lozano-Miller,3,NULL
+177,Jack Mccarthy,2009-02-12,12,ICSE,Lopez-Moore,4,NULL
+178,Elizabeth Crawford,2009-07-03,9,CBSE,Robinson Group,1,NULL
+179,Gabriel Thompson,2008-06-15,12,State Board,"Moore, Larson and Greer",6,NULL
+180,Matthew Jensen,2007-08-30,9,CBSE,Melendez-Gardner,1,NULL
+181,Theresa Morris,2010-07-29,10,State Board,Wood LLC,2,NULL
+182,Dr. Kathy Hoffman DVM,2008-01-04,12,ICSE,Johns-Gallagher,5,NULL
+183,Jessica Trevino,2007-05-15,12,State Board,Jones LLC,5,NULL
+184,Paula Arnold,2008-04-13,12,CBSE,"Burch, Mann and Morgan",4,NULL
+185,Kaitlyn Werner,2008-10-20,9,ICSE,Obrien-Ballard,1,NULL
+186,Lori Duncan,2010-12-28,8,CBSE,Moore Ltd,3,NULL
+187,Sarah Gallegos,2010-08-25,9,ICSE,Brown-Boyd,1,NULL
+188,Daniel Miller,2010-01-15,12,CBSE,Garrison-Allen,8,NULL
+189,Taylor Roberts,2008-04-06,10,ICSE,Martin-Carey,1,NULL
+190,Sharon Patel,2007-01-19,12,ICSE,Bradshaw Inc,6,NULL
+191,Daniel Pham,2008-12-29,12,ICSE,Good-Sanchez,5,NULL
+192,Sarah Santos,2007-07-26,8,State Board,Ortiz-Bailey,1,NULL
+193,Melissa Williams,2008-10-25,9,ICSE,Davis PLC,2,NULL
+194,Derek Reed DVM,2008-08-03,10,CBSE,Wilson and Sons,3,NULL
+195,Bailey Li,2009-12-14,11,State Board,"Hamilton, Cochran and Summers",7,NULL
+196,Jonathan Scott,2007-05-14,12,ICSE,"Foster, Clark and Grant",6,NULL
+197,Crystal Hendrix,2008-05-01,9,CBSE,"Hall, Green and Farmer",2,NULL
+198,Miguel Kelly,2007-05-04,10,State Board,"Juarez, Francis and Kirby",3,NULL
+199,Paul Hayes,2008-03-26,11,CBSE,Rocha and Sons,6,NULL
+200,April Smith,2007-04-22,8,CBSE,Cook-Hoffman,3,NULL
+201,Stacy Matthews,2009-12-03,11,CBSE,"Coffey, Edwards and Reyes",4,NULL
+202,Jasmine Hughes,2010-04-06,10,ICSE,Sanders-Rangel,2,NULL
+203,Stephen Horton,2007-10-05,9,ICSE,Prince and Sons,2,NULL
+204,Elizabeth Lawrence,2008-02-03,10,State Board,Wyatt and Sons,3,NULL
+205,Vincent Casey,2009-12-23,9,State Board,"Charles, Larson and Hansen",1,NULL
+206,Frederick Richmond,2007-03-12,10,ICSE,"Hart, Nolan and Allen",2,NULL
+207,Kevin Anthony,2008-06-01,10,CBSE,"Aguilar, Barrera and Wong",1,NULL
+208,Alexander Hansen,2008-05-05,10,CBSE,"Adams, Hawkins and Dalton",3,NULL
+209,Courtney Collins,2009-01-24,11,CBSE,Richardson-Wood,4,NULL
+210,Jeffery Eaton,2007-08-19,10,State Board,Gordon-Walker,3,NULL
+211,Virginia Stone DDS,2010-11-16,8,ICSE,Fernandez PLC,2,NULL
+212,Eric Molina,2009-08-23,10,ICSE,Anderson PLC,3,NULL
+213,Claire Arnold,2007-12-19,10,ICSE,Allen Ltd,2,NULL
+214,Cassandra Church,2008-02-08,12,CBSE,Wright-Johnson,7,NULL
+215,Jeffrey Moyer,2010-07-15,8,State Board,Roberson PLC,2,NULL
+216,Kelly Lin,2007-11-11,9,ICSE,Meyer-Raymond,3,NULL
+217,Anthony Sparks,2009-09-26,11,ICSE,White LLC,7,NULL
+218,Justin Luna,2010-06-17,9,ICSE,Sharp Group,3,NULL
+219,Christopher Chen,2009-12-09,10,CBSE,Miller-Romero,3,NULL
+220,Dawn Carter,2007-10-01,8,CBSE,Harrison Group,1,NULL
+221,Raymond Freeman,2008-01-29,9,CBSE,Brown-Walls,3,NULL
+222,Sean Beck,2010-06-11,11,CBSE,Jensen-Howard,8,NULL
+223,Carla Quinn,2008-09-22,11,State Board,Mcclure and Sons,4,NULL
+224,John Haas,2010-11-29,12,CBSE,Davis LLC,4,NULL
+225,Garrett Randall,2009-01-19,8,State Board,Pace-Nelson,3,NULL
+226,Lisa Jones,2010-07-18,9,ICSE,Johnson LLC,3,NULL
+227,Jennifer Franklin,2010-02-04,10,CBSE,Lam-Hayes,1,NULL
+228,Robert Taylor,2010-04-29,10,CBSE,"Smith, Jones and Diaz",2,NULL
+229,Jessica Adams,2008-07-13,11,State Board,"Levine, Ellis and Landry",8,NULL
+230,Kathleen Harmon,2010-11-12,12,CBSE,"Baker, Gonzalez and Chan",8,NULL
+231,Mrs. Elizabeth Bailey,2008-06-18,9,CBSE,Howard Inc,1,NULL
+232,Alice Robinson,2010-06-06,8,ICSE,"Decker, Alvarez and Christian",1,NULL
+233,Megan Simmons,2008-01-05,10,CBSE,Ford Ltd,1,NULL
+234,Sierra Lowery,2010-08-04,11,CBSE,Berger-Erickson,7,NULL
+235,Matthew Harper,2009-04-19,9,CBSE,"Proctor, Henderson and Olson",1,NULL
+236,Jeremy Harvey Jr.,2008-10-03,11,State Board,"Jones, Young and Rodgers",5,NULL
+237,Paul Solis,2009-11-07,11,ICSE,"Garcia, Nolan and Lee",5,NULL
+238,Joshua Lopez,2008-04-02,8,State Board,Smith-Fisher,2,NULL
+239,Jeremy Miller,2009-12-25,8,State Board,"Elliott, Johnson and Clark",2,NULL
+240,Laura Barrera,2009-04-07,8,ICSE,"Mccormick, Choi and Smith",3,NULL
+241,Thomas Kelly,2010-05-28,11,State Board,"Clements, Ramos and Gillespie",6,NULL
+242,Eric Ho,2009-12-05,9,ICSE,Guzman-Kelley,1,NULL
+243,Maria Valencia,2009-05-12,10,State Board,Mitchell and Sons,3,NULL
+244,Denise Perez,2007-02-18,11,CBSE,Ramirez and Sons,5,NULL
+245,Sabrina Martin,2007-02-19,8,ICSE,Ward Ltd,2,NULL
+246,Kimberly Hall,2007-08-20,12,State Board,Allen Inc,6,NULL
+247,Brian Walker,2010-02-05,10,State Board,"Wilson, Ford and Davis",3,NULL
+248,Elizabeth Mendoza,2010-01-23,8,CBSE,"Bass, Sanchez and Gonzalez",1,NULL
+249,Andrew Chen,2008-06-08,9,CBSE,Powell-Brandt,2,NULL
+250,Shane Price,2007-07-07,9,State Board,Foster-Barker,3,NULL
+251,Michael Barker,2009-12-06,8,ICSE,"Bryant, Taylor and French",3,NULL
+252,Jonathon Mitchell,2009-04-05,11,CBSE,Glover LLC,5,NULL
+253,Jordan Estrada,2007-01-30,9,State Board,Jones-Huynh,1,NULL
+254,Michelle Price,2010-09-15,9,ICSE,Jensen-Simon,2,NULL
+255,Alejandra Nguyen,2010-12-19,10,ICSE,Carpenter Group,1,NULL
+256,Kimberly Wallace,2009-05-09,11,State Board,Russell Ltd,7,NULL
+257,Richard Tyler,2009-12-12,8,State Board,Hoffman Group,3,NULL
+258,Brooke Long,2008-05-06,9,CBSE,Cross Ltd,1,NULL
+259,David Henderson,2009-05-11,11,State Board,"Bradley, Morales and Smith",4,NULL
+260,Julia Kidd,2007-08-13,12,ICSE,"Hinton, Young and Smith",4,NULL
+261,Tara Hayes,2008-11-27,8,ICSE,"Manning, Phillips and Schneider",3,NULL
+262,Jerry Bradford,2009-11-07,11,ICSE,Adams Inc,6,NULL
+263,Jeffrey White,2007-04-11,8,CBSE,Henry Inc,3,NULL
+264,Philip Brown,2007-06-16,12,ICSE,Dudley Group,7,NULL
+265,Kellie Moyer,2009-10-20,10,CBSE,Diaz PLC,2,NULL
+266,David Taylor,2007-08-04,12,CBSE,Moore-Medina,4,NULL
+267,Isabella Adams,2007-04-05,8,CBSE,Robbins and Sons,1,NULL
+268,Nicole Smith,2007-05-29,10,CBSE,Davis-Ballard,3,NULL
+269,Robert Adams,2007-09-29,8,ICSE,Marks LLC,1,NULL
+270,Andrea Hicks,2009-05-28,12,State Board,Myers-Velasquez,8,NULL
+271,Rhonda Baldwin,2010-03-20,11,CBSE,"Carson, Cisneros and Dodson",5,NULL
+272,Jasmine Robinson,2009-11-24,11,CBSE,Robinson and Sons,6,NULL
+273,Rebecca Smith,2008-09-23,10,CBSE,"Cruz, Green and Nicholson",2,NULL
+274,Anthony Lopez,2010-05-13,9,CBSE,Mata LLC,2,NULL
+275,Kristen Lara,2010-06-14,9,CBSE,Jones-Gallegos,2,NULL
+276,Jordan Jackson,2007-07-10,11,State Board,Luna-Marquez,8,NULL
+277,Cody Peterson,2010-11-19,10,State Board,"Davis, Stevens and Carter",3,NULL
+278,Vincent Bradley,2009-10-30,12,ICSE,Huerta-Jones,4,NULL
+279,Eric Gonzales,2007-03-12,8,CBSE,"Curtis, Dalton and Goodman",1,NULL
+280,Cody Contreras,2010-07-20,11,ICSE,Smith-Jones,4,NULL
+281,Anne Jenkins,2010-05-03,12,ICSE,Quinn Ltd,5,NULL
+282,Margaret Parker,2007-07-27,10,CBSE,Young-Carroll,3,NULL
+283,Debra Brown,2009-11-21,11,CBSE,Wells-Owens,7,NULL
+284,Christopher Stewart,2009-06-21,11,State Board,Walker Inc,5,NULL
+285,William Carpenter,2010-03-25,12,ICSE,Martin-Nichols,6,NULL
+286,Julia Brooks,2010-01-09,12,CBSE,Rodriguez-Wilson,7,NULL
+287,William Lynch,2008-08-09,8,State Board,"Stanton, Bryant and Richards",1,NULL
+288,Jennifer Suarez,2008-05-26,12,State Board,Conner-Jenkins,5,NULL
+289,Andrew Barton,2010-08-30,11,CBSE,Glover-Frank,4,NULL
+290,Cheryl Wilson,2007-06-12,12,CBSE,Barnes Group,6,NULL
+291,Stephanie Martinez,2007-04-09,12,State Board,Garcia-Mcclain,6,NULL
+292,Robert Woods,2008-08-16,12,CBSE,Carney LLC,8,NULL
+293,Kathryn Deleon,2009-10-22,10,ICSE,"Stout, Parker and Myers",2,NULL
+294,Madison Jones,2010-01-04,11,ICSE,Moreno-Barker,4,NULL
+295,Tracy Parrish,2008-03-10,10,CBSE,"Garrison, Horton and Roman",3,NULL
+296,Rachel Nguyen,2007-04-08,11,CBSE,Ford Inc,5,NULL
+297,Carol Mueller,2009-08-14,11,State Board,Silva-Clay,8,NULL
+298,Marcus Bass,2009-10-24,12,State Board,Edwards PLC,6,NULL
+299,Julie Doyle,2009-02-10,9,ICSE,Donovan-Willis,2,NULL
+300,Kathleen Wilson,2007-02-24,12,ICSE,Reynolds and Sons,6,NULL
+301,Mrs. Nancy Wilson,2007-12-05,9,ICSE,"Vargas, Glenn and Vega",3,NULL
+302,Denise Griffin,2007-10-16,11,State Board,Perez-Kane,8,NULL
+303,Claire Stevens,2007-12-26,8,ICSE,Lee-Frazier,3,NULL
+304,Ashley Carter,2011-01-13,8,ICSE,"Rowe, Oliver and Williams",2,NULL
+305,Douglas Guzman,2009-03-20,12,State Board,Reyes-Scott,4,NULL
+306,Sheryl Young,2010-12-05,9,CBSE,"Wood, Berry and Gallegos",2,NULL
+307,Thomas Matthews,2010-02-05,12,State Board,Thompson-Alexander,8,NULL
+308,Justin Floyd,2010-05-27,8,State Board,Thompson Ltd,3,NULL
+309,William Porter,2008-11-15,10,State Board,Martinez-Warren,1,NULL
+310,Charles Mendez,2008-06-29,8,CBSE,Sexton-Medina,2,NULL
+311,Mark Caldwell,2008-02-17,10,State Board,Jackson Inc,1,NULL
+312,Jonathan Bell,2009-07-11,12,State Board,Thornton Inc,5,NULL
+313,Charles Gonzalez,2009-04-13,8,State Board,Cox and Sons,1,NULL
+314,Gabriel Lynch,2007-05-26,11,State Board,Ellis-Macdonald,7,NULL
+315,Eugene Douglas,2008-09-27,11,CBSE,Mcdaniel-Williams,8,NULL
+316,Eric Nguyen,2007-05-13,8,State Board,Conner and Sons,2,NULL
+317,Andrew Harris,2007-05-28,9,State Board,"Anderson, Duarte and Dodson",2,NULL
+318,Tiffany Brown,2008-03-01,8,State Board,"Shaw, Smith and Evans",2,NULL
+319,Jill Irwin,2009-06-18,12,State Board,"Crosby, Medina and Lee",4,NULL
+320,Derek King,2008-04-21,8,ICSE,Brown Ltd,1,NULL
+321,Roger Tapia,2007-04-30,9,CBSE,"Williams, King and Jones",3,NULL
+322,Devon Dickerson,2008-11-14,9,CBSE,Thompson Group,1,NULL
+323,Mary Webb,2007-06-22,11,ICSE,"Moyer, Parker and Meyer",6,NULL
+324,Jenna May,2008-10-02,12,ICSE,"Shannon, Monroe and Washington",7,NULL
+325,Jill Gillespie,2010-12-29,11,ICSE,Willis and Sons,6,NULL
+326,Benjamin Jimenez,2008-11-19,8,State Board,Roman LLC,2,NULL
+327,Becky Garza,2010-03-10,12,ICSE,Klein-Nelson,8,NULL
+328,Corey Davis,2009-05-01,10,State Board,"Arnold, Reed and Collins",1,NULL
+329,Richard Scott,2008-11-18,9,State Board,Hernandez-Mercer,3,NULL
+330,Julie May,2010-11-21,12,State Board,Harmon LLC,4,NULL
+331,Steven Stewart,2009-09-04,9,CBSE,Porter-Davenport,2,NULL
+332,Molly Hill,2007-08-20,12,CBSE,"Dennis, Cruz and Webb",4,NULL
+333,Victoria Carter,2007-05-18,8,ICSE,"Morgan, Mckee and Love",2,NULL
+334,Marc Hernandez,2010-10-21,12,CBSE,Peck-Anderson,7,NULL
+335,Kristina Jenkins,2008-11-24,8,State Board,"Potts, Bell and Smith",2,NULL
+336,Christopher Arnold,2007-06-19,12,State Board,Lam PLC,8,NULL
+337,Lisa Brown,2007-06-27,10,CBSE,"Anderson, Montoya and Meyer",3,NULL
+338,Jennifer Lucas,2009-09-22,10,State Board,Lin-Farrell,2,NULL
+339,Crystal Powell DDS,2010-02-03,9,State Board,"Pugh, Tucker and White",3,NULL
+340,Kathy Scott,2010-10-02,10,ICSE,Hill and Sons,2,NULL
+341,Raymond Matthews,2009-10-31,9,State Board,"Martinez, Reese and Nguyen",1,NULL
+342,Meghan Smith,2010-01-27,12,State Board,Swanson Ltd,8,NULL
+343,Joseph Johnson,2007-07-28,8,State Board,Turner-Marshall,3,NULL
+344,Bruce Nicholson,2008-05-20,9,State Board,Howard Ltd,3,NULL
+345,Melissa Meyer,2008-11-03,11,State Board,Martin-Wright,4,NULL
+346,Susan Arias,2009-03-17,11,CBSE,Mendez and Sons,5,NULL
+347,Lauren Burke,2007-06-26,12,CBSE,"Rocha, Campbell and Scott",6,NULL
+348,Brittany Powell,2008-12-16,11,CBSE,"Rodriguez, Gilbert and Avila",8,NULL
+349,Nicholas Harrington,2007-05-03,10,CBSE,Garner and Sons,3,NULL
+350,Robert Fuller,2008-08-01,10,State Board,Butler LLC,2,NULL
+351,Thomas Peterson,2007-04-06,9,ICSE,"Santiago, Edwards and Wood",3,NULL
+352,Brianna Hernandez,2008-11-29,12,CBSE,"Hicks, Faulkner and Daniels",5,NULL
+353,Krista Walker,2010-05-05,9,ICSE,"Mitchell, Carroll and Moore",3,NULL
+354,Donna Fuller,2009-11-23,12,State Board,"Duncan, Park and Madden",5,NULL
+355,Linda Guerrero,2008-10-28,9,CBSE,Baird-Chapman,1,NULL
+356,Brandi Harper,2009-04-05,12,ICSE,Henson-Brown,6,NULL
+357,Julie Nichols,2008-11-12,8,ICSE,Wilson and Sons,1,NULL
+358,Bradley Lee,2007-08-11,8,ICSE,Young-Cook,2,NULL
+359,Lisa Hicks,2011-01-14,9,CBSE,"Sheppard, Bentley and Dodson",3,NULL
+360,Matthew Mcknight,2007-07-12,12,State Board,Walker LLC,7,NULL
+361,Erica White,2007-02-03,12,State Board,Horne-Newman,5,NULL
+362,Justin Andrews,2009-06-17,8,ICSE,"Stewart, Davis and Alvarez",1,NULL
+363,Matthew Bailey,2007-10-28,10,State Board,"Richardson, Lee and Sutton",3,NULL
+364,Anthony Collins,2007-10-07,10,CBSE,"Davis, Powell and Cook",1,NULL
+365,Robin Lambert,2010-01-16,9,ICSE,Walker-Williams,1,NULL
+366,Michael Benson,2009-11-10,9,ICSE,"Miller, Chaney and Mcintyre",1,NULL
+367,Victoria Calhoun,2009-08-11,9,CBSE,Jacobs PLC,2,NULL
+368,Sharon Herman,2010-06-21,12,ICSE,Barker Group,4,NULL
+369,Jennifer Martinez,2007-05-02,12,State Board,"Avila, Oconnor and House",4,NULL
+370,Erik Watkins,2008-11-08,12,CBSE,Anderson LLC,4,NULL
+371,Kathleen Jackson,2011-01-07,11,CBSE,"Mccoy, Villa and Holland",4,NULL
+372,Mike Donovan,2008-08-02,10,CBSE,Vazquez Ltd,2,NULL
+373,John Munoz,2010-03-02,12,ICSE,Beck PLC,6,NULL
+374,Julie Torres,2008-05-16,10,ICSE,Thomas-Andrews,1,NULL
+375,Tiffany Hawkins,2010-12-28,8,CBSE,Nunez Inc,2,NULL
+376,John Schwartz,2009-09-06,8,State Board,Mckenzie Ltd,2,NULL
+377,Marissa Poole,2008-01-28,9,CBSE,"Bonilla, Perkins and Blake",2,NULL
+378,Justin Harrison,2009-01-27,9,CBSE,Durham Inc,3,NULL
+379,Ashley Ross,2007-01-20,8,CBSE,"Cuevas, Jones and Potter",3,NULL
+380,Christopher Aguilar,2010-12-05,11,State Board,Taylor and Sons,6,NULL
+381,Derek Noble,2008-06-24,8,State Board,"Powers, Juarez and Evans",3,NULL
+382,Steven Santos,2009-10-14,11,ICSE,Gould-Sanders,6,NULL
+383,Amy Galvan,2007-06-15,10,CBSE,"Potts, Harris and Odonnell",1,NULL
+384,Ann Sanford,2010-05-27,12,State Board,Wilcox-Parsons,5,NULL
+385,David Ward,2008-04-11,10,CBSE,Brown-Higgins,2,NULL
+386,Jennifer Reynolds,2009-07-06,12,State Board,Webb-Glass,7,NULL
+387,Jacob Jordan,2009-03-16,9,ICSE,Gilmore-Anderson,1,NULL
+388,Michael Neal,2007-03-02,8,ICSE,Coleman PLC,2,NULL
+389,Judith Clarke,2007-05-29,10,State Board,Mack Ltd,3,NULL
+390,Mr. Cody James,2007-08-21,8,State Board,"Wolfe, Shepherd and King",1,NULL
+391,Mr. Frank Taylor DDS,2007-07-12,10,State Board,Washington-Chavez,1,NULL
+392,Kevin Larsen,2009-03-14,10,State Board,"Hobbs, Beasley and Garcia",3,NULL
+393,Nathaniel Munoz,2007-02-14,8,CBSE,Taylor Inc,3,NULL
+394,Christy Ryan,2008-06-11,11,State Board,Murphy and Sons,8,NULL
+395,Stacey Hartman,2010-04-22,12,ICSE,Alvarez-Barber,4,NULL
+396,Leah Ramirez,2009-10-13,10,State Board,"Mann, Dunn and Rush",2,NULL
+397,Lisa Hill,2008-01-22,10,State Board,"Monroe, Clark and Thomas",3,NULL
+398,Derek Stanley,2007-07-28,9,CBSE,"Farley, Campbell and Bryant",3,NULL
+399,Mary Rodriguez,2009-10-03,10,State Board,Day-Brooks,3,NULL
+400,Claudia Garcia,2009-06-26,11,ICSE,Marquez-Park,5,NULL
+401,Eric Santiago,2010-07-20,9,CBSE,"Goodwin, Martinez and Coleman",3,NULL
+402,Sue Hall,2010-07-23,8,ICSE,Fox-Harrison,3,NULL
+403,Cody Howard,2008-11-10,10,CBSE,Shelton-Savage,3,NULL
+404,William Armstrong,2008-07-05,12,CBSE,Scott-Brown,6,NULL
+405,Laura Kane,2009-08-06,10,ICSE,Miles Inc,1,NULL
+406,Melissa Boyle,2007-11-26,12,CBSE,"Stevens, Montes and Costa",4,NULL
+407,Michael Knox,2008-10-22,10,State Board,Kline Inc,3,NULL
+408,Gary Green,2010-01-27,10,CBSE,Fowler-Lambert,3,NULL
+409,Lisa Jackson,2010-04-24,8,ICSE,Thompson Inc,1,NULL
+410,Angela Franco,2010-05-16,11,ICSE,"Harris, Black and Schmidt",6,NULL
+411,Regina Parker,2009-09-08,8,State Board,Smith Inc,1,NULL
+412,Aaron Parrish,2009-07-13,12,State Board,Pruitt-Rivera,4,NULL
+413,Stephanie Montes,2007-04-10,9,CBSE,Rodriguez-Wood,1,NULL
+414,Pamela Davenport,2010-10-22,8,State Board,"Flowers, Johnson and Paul",1,NULL
+415,Benjamin Beltran,2009-05-01,11,CBSE,"Atkins, Woodward and Lowe",6,NULL
+416,John Mejia,2010-11-16,8,ICSE,"Taylor, Huynh and Stevenson",1,NULL
+417,Larry Kelley,2010-02-06,8,CBSE,Hamilton and Sons,2,NULL
+418,Margaret Richardson,2008-01-09,8,State Board,Silva-Burke,1,NULL
+419,Jaime Brown,2009-10-01,11,CBSE,"Mcknight, Watts and Ortiz",8,NULL
+420,Lori Green,2007-01-27,12,CBSE,Craig-Guerra,4,NULL
+421,Wayne Finley,2008-01-11,12,ICSE,Taylor-Martinez,8,NULL
+422,Stephanie Goodman,2009-03-16,10,ICSE,Davis Ltd,3,NULL
+423,Danielle Garza,2008-10-12,11,CBSE,Brown-Hughes,7,NULL
+424,Gina Wallace,2010-03-10,8,ICSE,"Stanley, Sellers and Moore",1,NULL
+425,Catherine Freeman,2008-05-11,9,CBSE,Taylor PLC,1,NULL
+426,Aaron Carpenter,2009-01-07,9,ICSE,Cooper-Pennington,3,NULL
+427,Steven Barnett,2009-06-06,9,CBSE,Flores PLC,2,NULL
+428,Nicholas Silva DDS,2008-12-28,10,CBSE,"Ellison, Conway and Rose",2,NULL
+429,Robert Short,2007-09-24,10,CBSE,Phillips LLC,2,NULL
+430,Hannah Esparza,2010-02-12,8,ICSE,Hayden Ltd,2,NULL
+431,Jennifer Saunders,2010-09-13,10,CBSE,Santiago-Eaton,3,NULL
+432,Pamela Acevedo,2009-11-09,11,State Board,"West, Moreno and Little",4,NULL
+433,Amy Johnson,2009-05-14,11,State Board,"Russell, Bender and Garcia",5,NULL
+434,Jesse Mcclain,2007-07-03,10,CBSE,George and Sons,1,NULL
+435,Ernest Henson,2010-03-01,8,State Board,"Johnson, Matthews and Campos",3,NULL
+436,Tanya Warren,2008-09-29,10,State Board,Clark Group,3,NULL
+437,Erika Andrade,2008-02-12,9,CBSE,Baker-Sweeney,2,NULL
+438,James Cook,2009-05-28,8,ICSE,Clark and Sons,2,NULL
+439,Alexandra Long,2008-09-10,11,ICSE,Bass Inc,7,NULL
+440,Rebecca Hamilton,2010-05-14,10,CBSE,"Combs, Nelson and Green",1,NULL
+441,Travis Valdez,2008-05-14,12,ICSE,Dougherty Group,6,NULL
+442,Blake Allen,2009-10-10,12,CBSE,Scott Inc,4,NULL
+443,Calvin Coleman,2008-10-20,10,ICSE,"Jones, White and Carter",1,NULL
+444,Michael Tucker,2007-11-29,11,State Board,"Thompson, Rosales and Little",4,NULL
+445,Michelle Huff,2010-03-15,9,CBSE,"Mccoy, Bennett and Conley",1,NULL
+446,Patty Griffin,2007-08-19,11,ICSE,"Jones, Johnson and Rodgers",8,NULL
+447,Michael Rodriguez,2008-10-09,8,CBSE,Cole-James,2,NULL
+448,Robert Turner,2010-09-18,11,ICSE,"Miller, Mason and Turner",6,NULL
+449,Martin Reilly,2010-06-30,11,ICSE,Ramirez PLC,5,NULL
+450,William Moore,2010-06-11,8,ICSE,Medina and Sons,2,NULL
+451,Justin Owens,2008-01-01,8,CBSE,Cox Ltd,1,NULL
+452,Corey Bryan,2007-08-11,10,CBSE,"Jones, Arnold and Lawson",1,NULL
+453,Mark Smith,2008-09-09,9,CBSE,"Vega, Garcia and Trujillo",3,NULL
+454,Luke Bishop,2010-10-10,9,ICSE,Bright Ltd,1,NULL
+455,Stacy Castillo,2010-05-25,11,State Board,"Mueller, Castillo and Blackburn",8,NULL
+456,Cody Smith,2010-01-29,11,ICSE,"Bell, Villa and Johnson",8,NULL
+457,Bryan Sandoval,2007-06-11,12,State Board,Calderon Group,4,NULL
+458,Tammy Perez,2009-10-06,12,ICSE,Kim-Wood,4,NULL
+459,Jennifer Rogers,2008-10-20,9,CBSE,"Hawkins, Aguilar and Stevens",1,NULL
+460,Katie West,2010-06-27,12,State Board,Wood-Chapman,5,NULL
+461,Ronald Pittman,2007-10-04,11,State Board,"Norman, Kelly and Reynolds",6,NULL
+462,Luis Rocha,2010-01-25,10,CBSE,"Berg, Cole and Nguyen",2,NULL
+463,Mary Jones,2011-01-17,9,ICSE,"Arellano, Murphy and Lyons",1,NULL
+464,Lance Daniel,2008-09-30,9,State Board,Reynolds-Barrera,1,NULL
+465,Sandra Crawford,2007-07-03,9,State Board,"Lara, Raymond and Kim",3,NULL
+466,Vickie Obrien,2007-04-19,11,CBSE,Thompson-Douglas,4,NULL
+467,Julie Castro,2007-03-11,11,State Board,Cunningham-Haney,6,NULL
+468,Miranda Hoover,2009-08-24,10,State Board,Jacobs-Golden,2,NULL
+469,Samuel Bass,2008-06-12,11,CBSE,Collins Group,7,NULL
+470,Matthew Johnson,2008-04-07,11,ICSE,Sloan Inc,5,NULL
+471,Richard Lee,2010-05-16,11,CBSE,Olsen-Bowen,6,NULL
+472,Erica Hamilton,2010-11-03,10,State Board,Carr Group,2,NULL
+473,Maria Ramos,2009-06-14,9,CBSE,Baxter Group,3,NULL
+474,David Rodriguez,2008-03-20,12,ICSE,"Sanchez, Rollins and Farmer",8,NULL
+475,Todd Lee,2010-10-20,12,State Board,"Adams, Carter and Le",8,NULL
+476,Caroline Travis,2008-01-08,10,State Board,Obrien Inc,2,NULL
+477,Kathleen Martin,2010-01-12,10,CBSE,"West, Barton and Simmons",3,NULL
+478,Elizabeth Daniel,2009-01-05,12,State Board,"Garcia, Roberts and Grant",8,NULL
+479,Courtney Flores,2007-10-22,10,ICSE,Price and Sons,1,NULL
+480,Linda Gomez,2008-06-13,8,ICSE,Hughes-Mcdonald,3,NULL
+481,Christy Harris,2011-01-06,11,CBSE,"Ryan, Morris and Zavala",4,NULL
+482,Holly Smith,2007-03-27,9,State Board,Rice Ltd,2,NULL
+483,Kim Kramer,2008-02-03,9,ICSE,Reyes Ltd,2,NULL
+484,Glen Jones,2008-12-29,8,State Board,"Barrett, Marsh and Fernandez",2,NULL
+485,Erin Boyd,2010-12-30,10,State Board,"Davis, Hurley and Ross",3,NULL
+486,Amy Hall,2009-01-26,12,CBSE,Pierce Group,6,NULL
+487,Andrew Herman,2008-11-04,8,State Board,"Lewis, Mccoy and Owens",3,NULL
+488,Shane Newton,2009-12-28,10,State Board,Rodriguez LLC,3,NULL
+489,James Thomas,2009-05-27,8,State Board,"Mitchell, Moore and Fowler",1,NULL
+490,Rebecca Alvarez,2008-07-05,10,CBSE,Hall-Hubbard,1,NULL
+491,Justin Scott,2010-08-17,11,State Board,"Rodriguez, Porter and Taylor",8,NULL
+492,Bonnie Johnson DDS,2010-12-25,9,ICSE,"Davis, Patterson and Garcia",3,NULL
+493,Michelle Thomas,2009-03-31,9,State Board,Chen LLC,2,NULL
+494,Joseph Brown,2010-02-01,11,State Board,Curtis-Foley,5,NULL
+495,William Baird,2007-02-11,12,CBSE,Simpson PLC,7,NULL
+496,Maurice Ortega,2009-12-30,12,State Board,Fuentes-Villegas,5,NULL
+497,Jerry Sanchez,2010-11-07,10,CBSE,Riley-Gomez,1,NULL
+498,Philip Rogers,2008-10-18,11,ICSE,"Roy, Barker and Kim",7,NULL
+499,Jesse Hendrix,2009-09-13,10,State Board,Barnes and Sons,1,NULL
+500,James Johnson,2008-06-04,11,ICSE,"Ray, Rangel and Stone",4,NULL
+501,Mr. Sean Taylor,2010-12-01,11,State Board,Thomas Inc,6,NULL
+502,Nathaniel Howard,2007-12-04,9,CBSE,Cochran-Wilson,1,NULL
+503,Anne Larson MD,2009-04-13,11,State Board,Ruiz-Carter,7,NULL
+504,Dr. Carrie Holder,2008-12-24,9,CBSE,"Collins, Williams and Morris",1,NULL
+505,Catherine Church,2008-12-06,11,CBSE,Blair Group,4,NULL
+506,Johnny Bernard,2007-05-07,8,CBSE,Moore-Galvan,2,NULL
+507,Andrea Chavez,2008-12-08,10,ICSE,"Torres, Fleming and Cook",1,NULL
+508,Lindsay Oliver,2008-02-14,8,State Board,Harris Ltd,1,NULL
+509,Brooke Maldonado,2008-03-30,9,ICSE,Cooper-Thomas,3,NULL
+510,Stephen Velazquez,2010-12-13,8,State Board,Todd Group,3,NULL
+511,Max Fitzgerald,2007-05-21,12,ICSE,Gonzalez-Robinson,6,NULL
+512,Christopher Yates,2008-12-26,10,State Board,Coleman-Watson,1,NULL
+513,Devin Ware,2008-08-15,12,ICSE,Snyder PLC,8,NULL
+514,Andrea Suarez,2007-02-19,10,ICSE,"Morse, Baker and Davis",3,NULL
+515,Caroline Young,2010-04-24,8,ICSE,Goodman LLC,1,NULL
+516,Victor Scott,2009-12-25,11,State Board,"Huynh, Parker and Barron",6,NULL
+517,Nancy Molina,2010-05-10,8,State Board,Roberts LLC,3,NULL
+518,Deborah Lopez,2010-12-13,10,ICSE,Kaiser-Shields,3,NULL
+519,Nicole Cameron,2007-12-11,8,State Board,Davis-Turner,3,NULL
+520,Cindy Kelley,2010-05-31,11,CBSE,"Fernandez, Morgan and Perez",5,NULL
+521,Nicholas White,2007-04-29,9,CBSE,Kramer Inc,1,NULL
+522,Melissa Cummings,2009-01-18,12,CBSE,Brown-Swanson,7,NULL
+523,Joseph Green,2008-12-16,10,CBSE,Kent-Blair,2,NULL
+524,Jessica Moore,2007-07-19,9,ICSE,Moore-Jones,3,NULL
+525,Linda Davis,2008-06-05,10,State Board,"Howell, Jones and Olson",1,NULL
+526,Carlos Morgan,2009-05-06,8,State Board,"Smith, Clark and Ingram",2,NULL
+527,Robin Shields,2008-04-23,12,ICSE,"Kent, Watson and Hall",6,NULL
+528,Virginia Murray,2007-02-04,10,State Board,Jackson Ltd,3,NULL
+529,James Garcia,2010-05-11,10,State Board,"Torres, Warren and Ellis",1,NULL
+530,Brooke Roberts,2007-03-28,10,CBSE,Garza PLC,1,NULL
+531,Lisa Tapia,2010-03-31,12,ICSE,Medina Ltd,7,NULL
+532,Amber Thomas,2010-04-05,8,State Board,Frederick-Craig,1,NULL
+533,Michael Ford,2010-07-30,11,ICSE,Rodriguez-Myers,7,NULL
+534,Joseph Colon,2008-07-14,10,State Board,Fields LLC,1,NULL
+535,James Irwin,2010-01-21,11,CBSE,Rivera-Smith,7,NULL
+536,Alexandra Alvarado,2009-06-07,12,CBSE,Larsen Ltd,5,NULL
+537,Sandy Mitchell,2009-02-16,9,ICSE,Petersen-Walters,3,NULL
+538,Brenda Deleon,2010-11-14,12,CBSE,"Macias, Gonzalez and Moore",5,NULL
+539,Carol Huerta,2008-11-09,8,ICSE,Stephenson-Day,2,NULL
+540,Victoria Morris,2009-02-24,9,ICSE,Ayala-Henry,2,NULL
+541,Christopher Harvey,2007-03-20,12,ICSE,Roberts-Hunter,5,NULL
+542,Leah Parker,2009-10-08,10,State Board,Lopez-Case,3,NULL
+543,Tony Dillon,2008-03-28,11,ICSE,"Mitchell, Hunt and Wilson",7,NULL
+544,Joseph Rios,2008-01-04,10,ICSE,Hoffman Ltd,1,NULL
+545,Katherine Scott,2008-07-30,8,ICSE,Torres-Garcia,2,NULL
+546,Crystal Harvey,2010-11-03,9,State Board,"Davenport, Johnson and Hunt",3,NULL
+547,Jennifer Brewer,2008-05-26,8,ICSE,Mcguire-Johnson,2,NULL
+548,Nathaniel Summers,2008-04-23,12,CBSE,Harper LLC,4,NULL
+549,Kristin Rogers,2010-11-01,10,State Board,Anderson-Webb,2,NULL
+550,Jason Hunt,2009-06-07,9,ICSE,Mitchell-Smith,2,NULL
+551,Courtney Roman,2009-12-08,12,CBSE,"Castillo, Vega and Bartlett",6,NULL
+552,Cynthia Smith,2008-07-09,9,ICSE,Miller-Khan,1,NULL
+553,Amanda Williams,2009-07-08,10,CBSE,Williams Inc,2,NULL
+554,Daniel Mckay,2009-11-05,9,State Board,Yang-Gardner,2,NULL
+555,Natalie Acevedo,2010-05-09,9,ICSE,Jones-Kelly,1,NULL
+556,Joanna Cuevas,2010-04-29,12,CBSE,Gallegos Inc,4,NULL
+557,Julie Buckley,2008-12-21,8,ICSE,Wang Inc,3,NULL
+558,Danielle Hicks,2010-11-01,11,CBSE,Peterson PLC,4,NULL
+559,Michael Kirk,2009-09-25,8,State Board,Aguilar-Maddox,1,NULL
+560,Rebecca Barrett,2007-06-15,10,ICSE,Curtis-House,2,NULL
+561,Lisa Neal,2008-02-12,8,CBSE,"Jones, Brown and Woods",2,NULL
+562,Amber Friedman,2009-03-12,11,CBSE,Gonzalez LLC,8,NULL
+563,Jamie Costa,2010-07-23,10,State Board,"Ali, Berry and Hughes",3,NULL
+564,Brittany Johnson,2009-01-27,8,ICSE,Guerra PLC,2,NULL
+565,Jeffrey Dominguez,2009-09-12,11,ICSE,Wilson Ltd,4,NULL
+566,William Stone,2007-02-16,8,CBSE,Johnson and Sons,2,NULL
+567,Robert Lee,2010-06-26,8,State Board,Brooks-Watkins,3,NULL
+568,Mark Clark,2007-09-15,12,CBSE,"Knox, Parrish and Ryan",4,NULL
+569,David Collins,2007-02-01,8,ICSE,Evans-Ingram,3,NULL
+570,Natalie Williams MD,2007-10-28,11,State Board,"Clark, Patel and Murphy",8,NULL
+571,Jackson Ward,2010-03-21,8,CBSE,"Warren, Beck and Reed",3,NULL
+572,Jaime Jefferson,2008-02-28,12,State Board,White PLC,6,NULL
+573,Miss Shannon Cisneros,2008-05-20,9,State Board,Yates-Arellano,1,NULL
+574,Sierra Hartman,2009-08-30,12,CBSE,Wilkerson Group,6,NULL
+575,Kathryn Richardson,2008-10-15,8,State Board,Anderson-Martin,3,NULL
+576,Molly Morris,2009-11-08,9,CBSE,"Rodriguez, Doyle and Evans",2,NULL
+577,Sydney Bender MD,2007-10-14,11,CBSE,Gilbert-Miller,6,NULL
+578,Robert Hodge,2010-05-22,10,CBSE,"Hudson, Mosley and Russell",1,NULL
+579,Linda Parker,2007-06-30,11,CBSE,Morales-Savage,6,NULL
+580,Samantha Hayden,2009-02-26,10,CBSE,"Cochran, Gibson and Henry",3,NULL
+581,Nicholas Keith,2008-06-22,11,ICSE,Davis and Sons,8,NULL
+582,Christopher Alexander,2008-04-16,11,CBSE,"Gonzalez, Davis and Nguyen",8,NULL
+583,Alexis Burgess,2007-04-03,10,CBSE,"Conner, Howard and Sherman",2,NULL
+584,Anthony Price,2009-10-13,9,ICSE,"Jordan, Kaiser and Ramsey",2,NULL
+585,Donna Richmond,2007-12-01,12,State Board,Gray-Gray,8,NULL
+586,Kimberly Davis,2008-12-08,12,State Board,Miranda-Novak,8,NULL
+587,Benjamin Fox,2009-08-26,12,ICSE,"Tanner, Perez and Perez",8,NULL
+588,Jessica Nolan,2010-03-08,12,State Board,Conrad-Chang,4,NULL
+589,Taylor Cross,2010-04-16,8,CBSE,Cook-Cabrera,3,NULL
+590,Jacob Edwards,2010-07-15,12,CBSE,Smith-Patel,6,NULL
+591,Stacy Thompson,2010-12-17,9,ICSE,"Salazar, Harper and Murray",1,NULL
+592,Michelle Allen,2010-07-31,12,State Board,"Brown, Williams and Savage",8,NULL
+593,Meghan Allen,2009-06-19,9,State Board,Gallegos Ltd,1,NULL
+594,Kyle Wood,2008-12-18,11,State Board,"Chung, Daniel and Diaz",5,NULL
+595,Amanda Kelley,2010-02-07,9,ICSE,"Myers, Clark and Orr",2,NULL
+596,Brianna Gilbert,2008-10-05,12,CBSE,Fitzgerald-Roth,6,NULL
+597,Alexis Kelly,2008-02-27,10,ICSE,Jacobs LLC,2,NULL
+598,Parker Evans,2009-12-02,11,State Board,"Holden, Ramsey and Smith",8,NULL
+599,Denise Williams,2009-11-24,11,ICSE,Gilmore and Sons,8,NULL
+600,Elizabeth Wilson,2009-12-03,10,ICSE,Oconnell-Cooper,1,NULL
+601,Brooke Butler,2009-08-02,9,CBSE,"Thompson, Kim and Contreras",1,NULL
+602,Shawn Mendoza,2007-05-28,12,State Board,"Snyder, Weeks and Cross",8,NULL
+603,Colton Carroll,2010-12-27,8,ICSE,"Walton, Stephens and Powell",1,NULL
+604,Kelly Long,2010-05-18,12,CBSE,Jackson PLC,4,NULL
+605,Joel Mcbride,2007-07-03,12,CBSE,Smith and Sons,8,NULL
+606,Courtney Barton,2007-12-23,12,State Board,Jefferson-Dean,6,NULL
+607,Laura Webb,2007-07-10,11,State Board,Campbell Inc,8,NULL
+608,Jonathan Mann,2008-09-27,9,State Board,"Carter, Burke and George",1,NULL
+609,Kimberly Hahn,2009-02-09,12,CBSE,Sandoval Group,6,NULL
+610,Nicole Owen,2009-08-02,11,ICSE,"Vance, Moss and Horton",5,NULL
+611,William Camacho,2007-02-06,12,State Board,"Kelly, Butler and Torres",5,NULL
+612,Terry Chen,2010-12-12,11,State Board,Lewis-Osborne,7,NULL
+613,Kyle Richards,2010-08-23,8,State Board,Williams Inc,3,NULL
+614,Christopher Brooks,2008-09-04,10,State Board,Gonzalez Group,2,NULL
+615,Scott Meyer,2010-05-30,10,ICSE,Flores Group,1,NULL
+616,Matthew Woodard,2010-01-21,10,State Board,Webster-Melton,3,NULL
+617,Mr. John Meza,2008-05-04,10,ICSE,Black-Espinoza,2,NULL
+618,Phillip Brown,2010-11-24,8,ICSE,Mckee Ltd,2,NULL
+619,Matthew Johnson,2007-11-07,12,ICSE,Chavez-Dominguez,7,NULL
+620,Gregory Reed,2010-12-12,8,CBSE,Gonzales-Nichols,3,NULL
+621,Tiffany Holmes,2008-04-16,8,ICSE,Black-Ramsey,1,NULL
+622,Mackenzie Robles,2008-06-23,10,CBSE,Gomez Group,2,NULL
+623,Dawn Smith,2010-10-05,11,CBSE,"Garcia, Wilson and Hernandez",5,NULL
+624,Charles Small,2008-09-12,9,CBSE,"Andrade, Olson and Jordan",3,NULL
+625,Frank Hernandez,2008-07-12,12,CBSE,Harper and Sons,4,NULL
+626,Paul Nelson,2010-08-14,9,ICSE,"Morales, Morales and Henderson",3,NULL
+627,Kristin Williams,2008-03-02,12,ICSE,"Hill, Anderson and Weaver",6,NULL
+628,Heather Alvarado,2009-01-21,10,ICSE,Johnson and Sons,2,NULL
+629,Darlene Smith,2008-04-05,11,CBSE,Bennett Inc,5,NULL
+630,Christy Lopez,2009-09-27,11,CBSE,Payne LLC,8,NULL
+631,Jasmin Buchanan,2007-03-30,8,State Board,Rose PLC,2,NULL
+632,Mrs. Jaime Baker,2009-10-07,9,ICSE,Young LLC,3,NULL
+633,Brianna Smith,2011-01-14,9,State Board,House-Wood,1,NULL
+634,Brandon Williams,2010-10-17,10,State Board,"Tucker, Scott and Adams",2,NULL
+635,Michael Wong,2008-09-04,10,CBSE,"Harris, Reynolds and Riley",2,NULL
+636,Scott Weiss,2008-10-23,10,State Board,Cook-Garrett,1,NULL
+637,Marcus Kelly,2007-01-19,12,State Board,Tran-Ballard,4,NULL
+638,Erica Herrera,2010-06-22,8,CBSE,"Garcia, Lee and Martin",2,NULL
+639,Jennifer Tanner,2008-03-21,12,ICSE,Bender LLC,6,NULL
+640,Thomas Dominguez,2010-10-09,11,CBSE,"Olson, Garcia and Ortiz",4,NULL
+641,Alicia Li,2008-08-15,9,ICSE,Walker-Reyes,3,NULL
+642,Connie Contreras,2008-12-06,8,CBSE,Allison-Weaver,3,NULL
+643,John Lopez,2010-02-27,10,ICSE,Huynh PLC,2,NULL
+644,Michael Huff,2009-05-06,9,ICSE,Alvarez-Cross,2,NULL
+645,Victoria Ingram,2009-01-06,10,ICSE,Delacruz Inc,1,NULL
+646,Alan Gonzalez,2008-01-20,9,CBSE,Rojas PLC,2,NULL
+647,Michele Stewart,2008-11-04,11,ICSE,Perez-Barry,7,NULL
+648,Lauren Cole,2009-03-06,9,State Board,Reilly-Miller,3,NULL
+649,Wesley Stephenson,2010-11-22,8,ICSE,Conley-Brewer,1,NULL
+650,Paul Herrera,2007-09-04,9,State Board,"Murphy, Cardenas and Rojas",3,NULL
+651,Vanessa Briggs,2007-08-25,10,ICSE,Moore PLC,3,NULL
+652,Michael Hughes,2007-08-19,12,CBSE,Blackburn Group,6,NULL
+653,Sherry Meyers,2008-01-02,10,ICSE,Santiago-Cardenas,2,NULL
+654,Tracey Pearson,2008-10-23,10,ICSE,Jackson Group,3,NULL
+655,Lisa Hopkins,2007-02-18,12,CBSE,Rivera PLC,8,NULL
+656,Shawn Baker,2009-06-01,11,CBSE,Fox-Zuniga,4,NULL
+657,Carolyn Melendez,2008-11-03,11,CBSE,"Cook, Moore and Mcintosh",7,NULL
+658,Kimberly Moore,2010-12-27,10,CBSE,Davis-Underwood,2,NULL
+659,Jean Davis,2008-09-03,12,State Board,Contreras Inc,8,NULL
+660,Christian Cabrera,2007-05-04,9,State Board,"Martin, Jones and Williams",2,NULL
+661,Brian Kelly,2008-12-17,10,State Board,Moore and Sons,2,NULL
+662,Michael Delgado,2010-04-22,8,State Board,Edwards-Brown,1,NULL
+663,Laura Hayes,2008-01-27,11,CBSE,Johns-Garcia,6,NULL
+664,Jorge Miranda,2010-07-25,12,CBSE,Lane-Evans,5,NULL
+665,Krista Deleon,2010-12-21,8,State Board,"Carter, Jackson and Colon",1,NULL
+666,Andrew Black,2007-02-06,9,CBSE,Hunter LLC,3,NULL
+667,Emily Evans,2009-01-01,10,State Board,Owens Ltd,3,NULL
+668,Wendy Jones,2009-01-21,8,State Board,"Jones, Vasquez and Delgado",1,NULL
+669,Erin Martinez,2007-02-17,12,ICSE,"Jones, Harrison and Kaiser",8,NULL
+670,Ashley Lambert,2008-06-26,12,CBSE,"Sloan, Sharp and Davis",7,NULL
+671,Amanda Short,2007-02-11,11,CBSE,"Smith, Hawkins and Cardenas",7,NULL
+672,Sabrina Smith,2008-12-28,10,ICSE,"Howard, James and Bryant",3,NULL
+673,Michael Woods,2010-03-21,12,ICSE,Murphy-Grant,4,NULL
+674,Natasha Trujillo,2007-06-08,11,CBSE,Martin Inc,8,NULL
+675,Kimberly Werner,2008-08-29,8,CBSE,Roberson and Sons,2,NULL
+676,Lisa Ramirez,2008-12-24,9,CBSE,Fuller-Jackson,2,NULL
+677,Tamara Reeves,2010-08-02,8,ICSE,"Johnston, Miller and Rodriguez",1,NULL
+678,Ashley Johnson,2008-03-01,11,ICSE,Smith Inc,7,NULL
+679,Thomas Evans,2007-08-25,11,State Board,Morrison Inc,4,NULL
+680,Gary Vincent,2007-03-19,11,State Board,Miller Inc,7,NULL
+681,Marissa Ramirez,2010-08-24,10,ICSE,Hawkins-Miller,3,NULL
+682,Jessica Smith,2009-05-01,9,State Board,"Parsons, Bennett and Arroyo",2,NULL
+683,Bethany Bates,2007-03-08,10,ICSE,Chambers LLC,3,NULL
+684,Brian Christian,2010-08-17,9,CBSE,Myers Group,1,NULL
+685,Troy Peters,2009-11-24,8,ICSE,"Smith, Lewis and Eaton",3,NULL
+686,Sandra Graham,2007-07-29,9,CBSE,Torres-Graham,1,NULL
+687,Philip Bond,2008-10-12,11,CBSE,Sanchez-Holt,7,NULL
+688,Ronald Mora III,2010-04-10,9,State Board,Todd Ltd,1,NULL
+689,Whitney Buckley,2009-07-15,11,ICSE,Buchanan-Hutchinson,5,NULL
+690,Tina Robinson DDS,2007-04-26,9,ICSE,Griffith-Byrd,1,NULL
+691,Brian Sanchez,2009-12-26,10,State Board,"Baker, Howell and Green",3,NULL
+692,Steven Jackson,2007-08-13,12,CBSE,Heath-Clarke,5,NULL
+693,Todd Brown,2009-09-09,8,ICSE,"Scott, Clark and Morris",1,NULL
+694,Adrian Farrell,2010-09-30,8,CBSE,"Taylor, Williams and Mcdonald",1,NULL
+695,Michael Diaz,2010-05-06,9,State Board,Johnson Ltd,2,NULL
+696,Jeffrey Erickson,2007-02-03,10,State Board,Huff-Sanchez,2,NULL
+697,Reginald Castillo,2007-03-08,8,CBSE,Turner LLC,2,NULL
+698,Sarah Flores,2009-03-02,10,State Board,Baker Ltd,2,NULL
+699,Glenda Casey,2009-12-30,11,ICSE,Cooper-Mitchell,6,NULL
+700,Brittany Fisher,2008-07-20,9,ICSE,Acosta-Watkins,2,NULL
+701,Shane Jones,2009-08-30,12,ICSE,Klein Group,6,NULL
+702,Cindy Bradley,2010-07-03,8,CBSE,Mcneil PLC,2,NULL
+703,Dana Brooks,2010-12-21,9,CBSE,Thomas and Sons,1,NULL
+704,Gary Shaw,2010-10-14,10,State Board,Melendez Group,1,NULL
+705,Matthew Campbell,2010-10-24,10,ICSE,Walter Group,3,NULL
+706,Kaitlin Martin,2010-08-28,10,CBSE,"Snow, Pearson and Benson",1,NULL
+707,Angela Romero,2007-01-19,12,State Board,Carpenter and Sons,8,NULL
+708,Daniel Gonzalez,2009-02-04,10,State Board,"Scott, Leonard and Kaufman",1,NULL
+709,Richard Wells,2008-12-03,10,CBSE,"Maynard, Rogers and Pittman",2,NULL
+710,Mike Turner,2010-07-12,12,ICSE,Mercer Group,4,NULL
+711,Sharon Lynch,2008-07-18,11,State Board,Brown Group,7,NULL
+712,Allison Daniel,2007-07-09,9,State Board,Graham and Sons,1,NULL
+713,Derek Arnold,2010-08-28,11,State Board,Cummings-Wright,7,NULL
+714,Christopher Park,2010-11-26,8,ICSE,"Silva, Yang and Carr",1,NULL
+715,Joseph Shea,2008-11-02,10,State Board,Walker-Gomez,3,NULL
+716,Corey Martin,2009-08-05,12,State Board,Deleon LLC,8,NULL
+717,Teresa Ritter,2009-03-19,9,ICSE,"Hill, Henry and Mckinney",1,NULL
+718,Hayley Robinson,2009-08-10,12,CBSE,"Lang, Bell and Alexander",6,NULL
+719,Laura Lee,2008-03-22,9,CBSE,Baker and Sons,1,NULL
+720,Tiffany May,2007-09-12,11,State Board,Gonzalez-Hunt,7,NULL
+721,Christopher Flores,2007-12-07,10,CBSE,"Harris, White and Hamilton",1,NULL
+722,Matthew Kaiser,2009-09-10,12,CBSE,Whitney-Davis,5,NULL
+723,Kristi Torres,2008-07-08,8,CBSE,"Harris, Palmer and Burton",3,NULL
+724,Eric Vasquez,2008-08-27,11,CBSE,Elliott-Chapman,7,NULL
+725,Dana Perez,2008-02-27,11,CBSE,Sanchez-Burke,5,NULL
+726,Gloria Ortiz,2007-02-25,10,ICSE,Chaney and Sons,1,NULL
+727,Kimberly Hanson,2010-07-26,10,ICSE,"Pennington, Brown and Curtis",3,NULL
+728,Kathleen Hill,2007-08-29,9,ICSE,Bass and Sons,1,NULL
+729,Angela Carlson,2010-12-26,11,State Board,Weeks LLC,7,NULL
+730,Dr. Jason Aguilar,2009-05-04,9,State Board,"Reynolds, Evans and Manning",1,NULL
+731,Angela Jones,2008-09-15,12,State Board,Weeks-Bernard,5,NULL
+732,Matthew Rogers,2007-10-15,11,State Board,"Alvarado, Brown and Stewart",4,NULL
+733,Amanda Taylor,2010-03-19,8,State Board,Ramsey-Hernandez,1,NULL
+734,Lindsey Hood,2007-12-30,10,State Board,Wilson Ltd,1,NULL
+735,Tiffany Walker,2007-12-05,11,CBSE,Lin-Williams,4,NULL
+736,Patricia Peters,2009-10-05,11,CBSE,Ray PLC,7,NULL
+737,James Martinez,2007-06-17,12,State Board,"Beltran, Everett and Matthews",7,NULL
+738,Jesse Wilson,2009-02-27,9,State Board,Carlson Inc,2,NULL
+739,Dr. Jacqueline Johnson,2010-09-01,12,CBSE,Hawkins-Turner,5,NULL
+740,Lisa Ramirez,2009-08-16,8,State Board,"Daniels, Walker and Nunez",1,NULL
+741,Ryan Price,2010-04-16,12,CBSE,Marshall and Sons,8,NULL
+742,Reginald Ferguson,2009-08-29,10,State Board,"Rivera, Miranda and Donovan",3,NULL
+743,Renee Ramos MD,2009-01-19,9,State Board,"May, Roberts and Savage",3,NULL
+744,Jonathan Evans,2008-08-01,12,State Board,Harris LLC,7,NULL
+745,Brittany Ray,2010-12-05,10,CBSE,Tanner and Sons,2,NULL
+746,Jennifer Matthews,2007-01-27,10,ICSE,Dennis and Sons,2,NULL
+747,Tiffany Gonzalez,2007-12-23,11,State Board,Simmons-Diaz,8,NULL
+748,Jason Bolton,2007-12-27,8,CBSE,Bolton Ltd,1,NULL
+749,Anthony Fisher,2010-11-12,9,ICSE,"Harrison, Duarte and Jenkins",3,NULL
+750,Reginald Garza,2008-02-12,8,CBSE,"Green, Ramos and Robinson",2,NULL
+751,Dana Wood,2008-07-23,12,ICSE,Howard Ltd,6,NULL
+752,Anthony Smith,2007-10-09,12,State Board,Gonzales PLC,8,NULL
+753,Jeremiah Hawkins,2007-04-01,11,State Board,Dodson-Wilson,5,NULL
+754,Tyler Charles,2009-12-06,9,State Board,Berry-Horn,1,NULL
+755,Jamie Sanders,2007-12-01,9,State Board,Johnson-Dennis,1,NULL
+756,Tiffany Hill,2008-11-04,10,State Board,"Moss, Freeman and Ross",2,NULL
+757,Karen Jacobs,2011-01-03,9,ICSE,Richmond LLC,1,NULL
+758,Christopher Harris,2009-05-31,11,State Board,Wilson-Chang,6,NULL
+759,Regina Nash,2009-09-28,9,ICSE,Carpenter-Miranda,1,NULL
+760,Sandra Johnson,2010-03-07,12,State Board,Morales Ltd,4,NULL
+761,Jamie Perkins,2009-06-06,11,ICSE,Green-Moore,8,NULL
+762,Casey Christian,2010-12-03,10,ICSE,Zuniga-Griffith,1,NULL
+763,Traci Perkins,2010-01-06,10,CBSE,Knight LLC,2,NULL
+764,Charles Burnett,2007-05-17,12,CBSE,"Price, Cook and Clark",6,NULL
+765,Carol Williams,2009-01-30,9,CBSE,Miller Inc,1,NULL
+766,Sarah Campbell,2010-07-01,11,ICSE,"Erickson, Shaffer and Randolph",8,NULL
+767,John Stephenson,2008-07-12,10,CBSE,Hobbs PLC,3,NULL
+768,Veronica Mills,2009-03-31,12,ICSE,Campbell-Hill,4,NULL
+769,Stacy Colon,2010-05-06,10,ICSE,Lee Inc,1,NULL
+770,Kimberly Cruz,2009-04-06,10,State Board,Anderson LLC,3,NULL
+771,Stephanie Taylor,2008-02-01,8,ICSE,"Edwards, Dixon and Allen",1,NULL
+772,Miranda Perez,2010-02-18,8,CBSE,Wilson and Sons,1,NULL
+773,Stephen Trujillo,2008-01-15,8,CBSE,"Rogers, Glover and Flores",2,NULL
+774,Benjamin Dean,2009-12-02,12,State Board,Stevens-Petty,6,NULL
+775,Zachary Martin,2008-03-19,11,State Board,Hill LLC,5,NULL
+776,Nicole Allen,2007-05-20,10,ICSE,Campbell Group,3,NULL
+777,Nicole Dunn,2010-02-25,8,State Board,"Oliver, Mason and Bautista",2,NULL
+778,Jeffrey Kennedy,2009-01-22,11,ICSE,Atkins-Johnston,8,NULL
+779,Lisa Brown,2010-04-18,8,ICSE,Jones LLC,3,NULL
+780,Jamie Rich,2010-05-02,8,ICSE,Sullivan LLC,2,NULL
+781,Michael Duncan,2010-05-08,8,ICSE,"Riley, Petersen and Clarke",3,NULL
+782,Elizabeth Robinson,2010-10-21,9,State Board,Wagner and Sons,1,NULL
+783,David Gates,2007-04-20,9,ICSE,Sullivan Inc,3,NULL
+784,Mr. Barry Gonzalez,2010-11-26,12,State Board,"Jones, Villegas and Jackson",7,NULL
+785,Phillip Campbell,2010-04-27,11,CBSE,Welch and Sons,6,NULL
+786,Anthony Vazquez,2007-10-16,12,State Board,Anthony PLC,6,NULL
+787,Tiffany Rodriguez,2007-08-27,10,ICSE,"Olsen, Burton and Guerra",3,NULL
+788,Heather Bryan,2007-06-11,9,CBSE,"Perry, Sharp and Rivas",1,NULL
+789,Amber Payne,2008-11-24,9,ICSE,Reed and Sons,2,NULL
+790,Samantha Wheeler,2009-04-14,12,CBSE,"Campbell, Harris and Caldwell",8,NULL
+791,Michael Wheeler,2010-11-09,12,ICSE,Lambert PLC,6,NULL
+792,Andrew Simpson,2010-01-08,11,ICSE,"Mitchell, Barr and Zavala",6,NULL
+793,Jeremy Thomas,2009-10-12,8,CBSE,Nguyen-Gregory,2,NULL
+794,William Harper,2010-01-09,8,State Board,"Morris, Rivera and Lambert",3,NULL
+795,Julie Obrien,2009-04-21,8,CBSE,"Grimes, Clark and Allison",3,NULL
+796,Pamela Jones,2008-09-13,11,ICSE,Mcdonald PLC,4,NULL
+797,Joseph Stanley,2009-04-29,12,CBSE,"Sosa, Burgess and Yates",8,NULL
+798,Charlene Sims,2010-03-17,12,State Board,Turner Inc,4,NULL
+799,Stephanie Cordova,2010-03-20,8,State Board,Rogers-Webster,1,NULL
+800,Larry Graham,2008-12-13,10,CBSE,Johnson Group,1,NULL
+801,Robert Andrews,2010-12-25,9,CBSE,Rush-Patton,2,NULL
+802,James Smith,2008-08-13,10,ICSE,"Dougherty, Tanner and Lucas",3,NULL
+803,Stephanie Williams,2007-07-15,12,CBSE,"Alexander, Robles and Prince",4,NULL
+804,Ashley West,2007-12-09,9,State Board,"Walton, Snyder and Henderson",2,NULL
+805,James Graham,2010-08-01,9,ICSE,Wilkins-Sheppard,3,NULL
+806,Yolanda Newton,2008-09-30,12,CBSE,Sullivan and Sons,5,NULL
+807,Steven Phillips,2009-07-01,10,State Board,"Pena, Cortez and Rodriguez",2,NULL
+808,Andrea Davis,2009-12-09,8,CBSE,Bowers and Sons,2,NULL
+809,John Fletcher,2009-01-21,8,State Board,"Patrick, Morales and Wallace",2,NULL
+810,Mr. Daniel Lopez,2010-02-11,9,ICSE,Lee and Sons,1,NULL
+811,Sarah Landry,2007-03-19,8,CBSE,Hooper-Frazier,2,NULL
+812,Ricardo Krueger,2010-10-24,12,ICSE,Jenkins-Callahan,8,NULL
+813,Robyn Koch,2010-04-22,8,ICSE,Martin-Vasquez,2,NULL
+814,Michael Rogers,2010-11-14,10,CBSE,Fuentes-Terry,2,NULL
+815,Katie Michael,2009-12-26,10,ICSE,"Green, Rodriguez and Phillips",1,NULL
+816,Jamie Sanders,2009-05-05,11,ICSE,Martin LLC,4,NULL
+817,Joshua Schroeder,2010-01-07,12,ICSE,"Cox, Pena and Kelley",6,NULL
+818,Michelle Drake,2009-01-16,12,State Board,Lewis-Hawkins,8,NULL
+819,Christopher Lopez,2008-04-07,10,State Board,Rodriguez-Hart,1,NULL
+820,Sarah Reyes,2010-04-17,9,CBSE,"Navarro, Parsons and Davis",2,NULL
+821,Emily Wise,2010-12-29,10,CBSE,"Turner, Rivera and Stanton",2,NULL
+822,Dennis Freeman,2010-10-18,9,State Board,Smith-Odom,2,NULL
+823,Matthew Nicholson,2010-09-23,8,State Board,Bean-Reed,2,NULL
+824,Mary Rojas,2009-10-24,12,ICSE,Edwards LLC,6,NULL
+825,April Hodge,2010-09-08,9,ICSE,Padilla-Kline,2,NULL
+826,Jessica Nolan,2007-03-13,9,State Board,Bailey-Nelson,3,NULL
+827,Christopher Rojas,2009-02-09,9,State Board,Kane-Carson,3,NULL
+828,Nancy Martinez,2008-01-25,10,ICSE,Wright-Pierce,2,NULL
+829,Katherine Butler,2010-05-29,8,CBSE,Brooks-Anderson,3,NULL
+830,Stephanie Weber,2009-03-26,10,ICSE,"Snyder, Ortiz and Buchanan",2,NULL
+831,Julie Robinson,2008-03-20,9,State Board,Griffith and Sons,1,NULL
+832,Ashlee Brown,2009-07-29,8,ICSE,Welch LLC,2,NULL
+833,Wesley Wilkins,2008-12-25,11,CBSE,Rodriguez-Kelly,8,NULL
+834,Anna Ortiz,2010-08-27,10,CBSE,"Ibarra, Hill and Turner",3,NULL
+835,Scott Logan,2008-10-30,11,CBSE,Morrow-Harper,6,NULL
+836,Donald Rivera,2007-08-25,9,ICSE,Johnson-Stevens,3,NULL
+837,Caitlin Adkins,2009-01-04,8,ICSE,"Smith, Mendez and Caldwell",2,NULL
+838,Jason Mitchell,2007-02-09,10,ICSE,"Parker, Rivera and Woodard",1,NULL
+839,Claire Johnson,2008-03-03,9,ICSE,Gonzalez-Smith,1,NULL
+840,Brittany Reed,2010-12-17,10,ICSE,Carrillo-Perry,1,NULL
+841,Christopher Price,2009-02-22,9,CBSE,"Baker, Shepard and Grimes",1,NULL
+842,Timothy Long,2010-09-23,11,ICSE,"Woods, Foster and Rogers",7,NULL
+843,Brianna Doyle,2008-08-10,10,State Board,"Wilson, Lane and Taylor",3,NULL
+844,Jose Ayers,2009-11-01,10,ICSE,"Maxwell, Thomas and Gomez",3,NULL
+845,Lori Weaver,2007-07-27,10,State Board,"Carter, Cortez and Clarke",1,NULL
+846,Jeremy Hall,2009-12-17,11,ICSE,Cannon Ltd,7,NULL
+847,Melissa Weber,2007-08-31,12,State Board,"Schultz, Maxwell and Lane",7,NULL
+848,Angela Murphy,2008-07-06,12,State Board,Riley and Sons,7,NULL
+849,Tyler Bender,2010-09-24,8,State Board,Stewart and Sons,2,NULL
+850,Nathan Solis,2008-01-28,12,ICSE,"Malone, Adams and Carter",7,NULL
+851,Heidi Morgan,2009-06-21,9,CBSE,Hoffman-Weber,1,NULL
+852,Nicholas Graham,2009-01-02,10,ICSE,"Phillips, Baker and Smith",3,NULL
+853,Chad Meza,2010-01-25,8,CBSE,Garza-Bates,1,NULL
+854,Dr. Robert Callahan,2007-09-17,10,State Board,Hampton-Jacobs,3,NULL
+855,Michelle Mathis,2007-12-10,11,CBSE,Ross Ltd,5,NULL
+856,Cassandra Mcbride,2010-05-18,10,ICSE,"Hunter, Barnes and Hayes",2,NULL
+857,Marie George,2009-07-18,8,State Board,"Kim, Simmons and Brown",3,NULL
+858,Kim Arnold,2007-06-13,9,State Board,"Tanner, Wilson and Smith",1,NULL
+859,Thomas Perez,2007-10-18,10,ICSE,Robinson-Ryan,3,NULL
+860,Jeremy Reed,2007-03-21,10,State Board,Brown-Ellison,2,NULL
+861,Sierra Wilson,2007-04-07,8,CBSE,Anderson and Sons,3,NULL
+862,Rose Chambers,2009-12-19,10,CBSE,Hernandez Ltd,2,NULL
+863,Abigail Wilkinson,2009-01-01,12,ICSE,Parker-Rice,7,NULL
+864,Troy Romero,2010-02-03,11,ICSE,Doyle Inc,5,NULL
+865,Robert Sharp,2010-04-05,9,ICSE,"Fields, Williams and Gray",2,NULL
+866,Lauren Robinson,2007-01-19,9,CBSE,Bean-Norman,1,NULL
+867,Sharon Gomez,2008-10-13,10,State Board,Jenkins and Sons,1,NULL
+868,Kristy Stevenson,2009-01-08,9,CBSE,Peters-Goodwin,3,NULL
+869,Antonio Salas,2009-10-29,11,State Board,"Wright, Higgins and Joseph",7,NULL
+870,Jason Johnson,2010-06-10,10,State Board,Miller-Reeves,3,NULL
+871,Allison Holland,2010-04-18,12,State Board,Allen-Wright,6,NULL
+872,Terri Miller,2008-09-02,9,CBSE,"Brooks, Bonilla and Haynes",1,NULL
+873,Kelly Cain,2010-03-06,9,ICSE,"Jones, Williams and Duke",2,NULL
+874,Reginald Mendez MD,2009-07-25,8,ICSE,Booker-Moreno,2,NULL
+875,Brian Hernandez,2009-07-07,12,ICSE,"Mcdonald, Nichols and Reid",6,NULL
+876,Cynthia Flores,2010-01-11,11,State Board,"Grant, Cook and Mason",7,NULL
+877,Adrian Whitaker,2008-08-21,11,ICSE,"Wilson, Alexander and Hernandez",8,NULL
+878,Chelsea Simpson,2009-10-20,11,CBSE,Barry-Schroeder,7,NULL
+879,Danielle Hall,2009-08-25,11,ICSE,Jones and Sons,4,NULL
+880,Jessica Baker,2008-05-16,10,ICSE,"Flores, Woods and Lutz",3,NULL
+881,Dennis French,2011-01-16,10,ICSE,Williams LLC,3,NULL
+882,Jeffrey Baker,2008-12-28,8,State Board,Anderson-Byrd,3,NULL
+883,Shirley Hunt,2007-05-17,11,ICSE,"Collins, Lester and Jones",4,NULL
+884,Dana Berry,2007-02-12,8,CBSE,"Harper, Waller and Osborn",3,NULL
+885,Carol Gonzales,2008-05-17,10,ICSE,"Wilson, Moore and Hartman",2,NULL
+886,Jamie Wright,2007-07-11,11,ICSE,Duran-Gould,4,NULL
+887,Valerie Miranda,2008-03-02,11,ICSE,Nelson Ltd,8,NULL
+888,Ryan Black,2010-12-22,8,ICSE,"Calhoun, Watson and Mcclain",3,NULL
+889,Christine Johnson,2009-02-22,9,CBSE,Marquez LLC,1,NULL
+890,Cindy Phillips,2010-10-25,11,CBSE,Mitchell Inc,6,NULL
+891,Dr. Ralph Bradford,2009-05-31,11,State Board,Mccall LLC,8,NULL
+892,Sheryl Levy,2007-01-24,8,ICSE,Mendez-Martin,1,NULL
+893,Troy Cordova,2009-08-25,12,ICSE,Osborne LLC,5,NULL
+894,Raymond Lucero,2010-09-22,10,CBSE,Vasquez-Foley,3,NULL
+895,Carla Burgess,2007-08-27,10,CBSE,Cook and Sons,3,NULL
+896,Kathleen Hernandez,2010-04-27,11,CBSE,Wilson and Sons,8,NULL
+897,Patrick Cantrell,2009-07-06,11,ICSE,"Davis, Miles and Mueller",7,NULL
+898,Emily Fisher,2010-02-26,10,ICSE,"Collins, Moon and Cook",2,NULL
+899,Dawn Gutierrez,2007-07-21,11,State Board,"Henderson, Morris and Berry",7,NULL
+900,Carlos Hansen,2009-09-30,9,State Board,Anderson-Kelley,1,NULL
+901,Robin Silva MD,2007-05-26,10,ICSE,"Diaz, Andrews and Garcia",2,NULL
+902,James Holland,2008-05-18,8,ICSE,Doyle-Castillo,3,NULL
+903,Kurt Goodwin,2007-06-19,8,ICSE,Poole PLC,2,NULL
+904,Melissa Thomas,2007-07-27,8,CBSE,Daniels and Sons,1,NULL
+905,Amber Jones,2007-06-03,8,State Board,"Cooper, Hutchinson and Ramirez",1,NULL
+906,Carrie Miller,2008-10-29,11,State Board,Becker-Lopez,4,NULL
+907,Cynthia Brown,2007-06-12,11,ICSE,Meyer Ltd,6,NULL
+908,Becky Wiley MD,2008-03-28,12,State Board,Ramos and Sons,4,NULL
+909,Lindsay Walker,2007-02-03,8,State Board,"Romero, Herring and Harmon",1,NULL
+910,Julian Gould,2009-03-19,10,State Board,Acosta-Klein,1,NULL
+911,Gary Hernandez,2010-10-11,8,ICSE,"Parrish, Pope and Richardson",2,NULL
+912,Rodney Powell,2009-12-22,12,CBSE,"Richmond, Johnson and Stokes",7,NULL
+913,Brian Bell,2007-01-30,9,ICSE,Sullivan Inc,3,NULL
+914,Fred Mejia,2009-03-25,10,ICSE,Tran Ltd,1,NULL
+915,Megan Martin,2007-02-18,9,ICSE,"Lee, Owens and Curtis",2,NULL
+916,Albert Michael,2009-08-20,12,ICSE,"Young, Moyer and Patton",7,NULL
+917,Joy Taylor,2008-03-13,12,CBSE,Ross PLC,5,NULL
+918,Dale Hines,2010-01-11,9,CBSE,Sawyer-Turner,2,NULL
+919,Ryan Boyd,2007-07-19,11,ICSE,Molina Ltd,6,NULL
+920,Steven Mcgrath,2008-07-17,9,ICSE,Berry-Adkins,3,NULL
+921,Jordan Wilson,2007-03-25,10,ICSE,"Barnett, Hensley and Preston",3,NULL
+922,Amanda Gonzalez,2009-09-26,8,State Board,"Hammond, Hill and Rivera",1,NULL
+923,Calvin Miller,2009-12-14,10,ICSE,"Olson, Pittman and Hobbs",3,NULL
+924,Kylie Jones MD,2010-06-14,8,State Board,Arnold-Odom,3,NULL
+925,Jenna Butler,2009-06-08,9,ICSE,Mccormick and Sons,3,NULL
+926,Jessica Greene,2007-03-15,12,CBSE,"Herrera, Mckinney and Conley",5,NULL
+927,Stephanie Campbell,2007-10-16,9,ICSE,"Garcia, Hurley and Miles",3,NULL
+928,Melissa Moore,2009-11-30,12,ICSE,Sullivan Inc,7,NULL
+929,Jessica Molina,2008-01-15,12,CBSE,"Adams, Moody and Bailey",6,NULL
+930,Pam Andersen,2008-03-15,12,CBSE,Parks-Gaines,6,NULL
+931,Timothy Jacobson,2007-03-05,9,CBSE,Rose PLC,1,NULL
+932,Jeremy Weaver,2009-05-22,11,ICSE,Taylor-Nelson,4,NULL
+933,Stephen Bennett PhD,2009-06-26,11,State Board,Oliver PLC,6,NULL
+934,Mark Henry,2010-09-08,11,State Board,Guzman-White,5,NULL
+935,Bradley Byrd,2009-02-24,10,ICSE,Sanders Inc,3,NULL
+936,Eric Jenkins,2008-01-08,12,State Board,Shepherd Ltd,5,NULL
+937,Christopher Hill,2009-08-12,8,State Board,"Stark, Parker and Becker",3,NULL
+938,Patrick Green,2007-04-05,8,ICSE,Kim-Rhodes,2,NULL
+939,Brenda Williams,2009-08-13,11,CBSE,"Mejia, Perez and Guerra",4,NULL
+940,Amy Pearson,2007-07-05,10,ICSE,Ferguson-Simpson,3,NULL
+941,Kelli Jimenez,2010-05-19,8,ICSE,"Williams, Paul and Gordon",1,NULL
+942,Christopher Alvarez,2008-07-02,10,CBSE,Mullins-Smith,1,NULL
+943,Jeffery Brown,2009-12-24,12,CBSE,Nguyen-Johnson,6,NULL
+944,Kimberly Perez,2009-10-24,11,CBSE,Curry-Cisneros,4,NULL
+945,Curtis Gross,2009-10-10,9,State Board,Rose-Foster,3,NULL
+946,Phillip Arnold,2010-06-27,9,CBSE,"Wu, Hendricks and Moreno",1,NULL
+947,Maria Harper DVM,2009-08-20,12,ICSE,Clark Group,7,NULL
+948,David Davis,2008-09-29,9,State Board,"Taylor, Allen and Hernandez",3,NULL
+949,Kiara Payne,2008-05-16,8,ICSE,Lopez-Sanchez,1,NULL
+950,Jean Lloyd,2007-04-03,8,ICSE,"Moore, Blair and Perez",3,NULL
+951,Erik Hansen,2010-11-03,8,State Board,Williams-Fields,1,NULL
+952,Katelyn Ryan,2007-05-08,9,CBSE,"Torres, Barrett and Meyer",2,NULL
+953,Christie Dennis,2009-01-20,8,CBSE,"Perkins, Nelson and Sanders",3,NULL
+954,Lisa Mitchell,2008-08-03,11,State Board,Campbell-Serrano,5,NULL
+955,Anna Becker,2009-01-02,9,ICSE,Wiggins LLC,2,NULL
+956,Victoria Diaz,2008-03-28,11,CBSE,Rodriguez LLC,7,NULL
+957,Kristin Hill,2007-09-14,12,State Board,Cruz PLC,8,NULL
+958,Sheri Ramos,2007-08-02,12,CBSE,Lynn Ltd,8,NULL
+959,Alexander Moore,2010-04-14,10,CBSE,King-Acosta,2,NULL
+960,Logan Miller,2009-11-14,8,State Board,"Sanders, Allen and Miller",2,NULL
+961,Austin Ramsey,2010-12-14,9,ICSE,Matthews Ltd,3,NULL
+962,David Douglas,2008-03-13,10,ICSE,Graham-Thompson,2,NULL
+963,Adam Freeman,2007-04-14,9,CBSE,Webb Ltd,3,NULL
+964,Samantha Anderson,2008-10-26,9,State Board,Sanchez-Aguirre,3,NULL
+965,Jennifer Gibbs,2008-02-12,10,CBSE,Thornton Inc,3,NULL
+966,Andrea Boyer,2010-02-08,8,State Board,Cook Inc,3,NULL
+967,Mrs. Gina Rivas PhD,2011-01-14,12,CBSE,Smith-Ramirez,7,NULL
+968,James Hernandez,2008-02-23,9,ICSE,Sweeney Inc,1,NULL
+969,Walter Contreras,2010-09-14,9,State Board,Simmons-Castaneda,2,NULL
+970,Mitchell Campos,2010-06-15,12,ICSE,Hudson Group,4,NULL
+971,Jacob Brown,2008-10-10,10,State Board,"Pitts, George and Haynes",2,NULL
+972,Thomas Patterson,2007-03-23,12,CBSE,Johnson Ltd,8,NULL
+973,Steven Payne,2007-06-24,10,ICSE,Peters-Quinn,3,NULL
+974,Johnathan Martin,2008-11-29,10,ICSE,White Inc,1,NULL
+975,Susan Chambers,2009-03-16,8,ICSE,Mueller-Hart,2,NULL
+976,Aaron Rhodes DVM,2010-02-19,10,ICSE,"Wood, Harvey and Hines",1,NULL
+977,Ryan Wolfe,2007-07-07,11,State Board,Frazier Inc,6,NULL
+978,Matthew Morgan,2010-01-03,9,CBSE,"Gray, Strickland and Delgado",2,NULL
+979,Keith Fischer,2007-11-03,10,CBSE,"Price, Fisher and Saunders",3,NULL
+980,Aaron Bird DVM,2007-06-26,9,State Board,"Moore, Montgomery and Wright",3,NULL
+981,Sarah Hanson,2008-08-22,8,ICSE,Wilson Inc,1,NULL
+982,Rebecca Hale,2009-10-22,10,ICSE,Payne-Fernandez,2,NULL
+983,Christine Curry,2008-07-15,8,ICSE,Villanueva-Munoz,2,NULL
+984,Lee Crawford,2009-08-26,12,ICSE,"Garcia, King and Baldwin",8,NULL
+985,Laura Gomez,2009-08-27,10,ICSE,"Ramirez, Alvarez and Holt",2,NULL
+986,Alicia Carter,2009-11-01,8,ICSE,"Reid, Collier and Espinoza",1,NULL
+987,Kathleen Patterson,2010-10-06,8,State Board,"Mcdonald, Ramirez and Torres",3,NULL
+988,Joseph Walsh,2010-07-26,10,ICSE,"Meyer, White and Garrett",2,NULL
+989,Mary Palmer,2008-08-11,12,State Board,"Keller, Hays and Fields",6,NULL
+990,Sean Morales,2008-01-16,12,CBSE,Hayes-Nolan,8,NULL
+991,Molly Reyes,2008-09-29,11,State Board,Harper-Keller,5,NULL
+992,Melissa Tate,2010-12-10,11,ICSE,Jenkins-Miller,8,NULL
+993,Shannon Livingston,2008-03-27,11,State Board,Solis-Roman,8,NULL
+994,William Terry,2009-12-15,10,CBSE,Mcdonald Ltd,2,NULL
+995,Samuel Velasquez,2009-05-27,9,CBSE,Robertson-Conner,2,NULL
+996,Erik Lee,2007-03-17,8,State Board,"Garcia, Glass and Jones",3,NULL
+997,Chad Smith,2007-04-27,10,CBSE,Navarro-Floyd,1,NULL
+998,James Harris,2007-08-03,9,State Board,Bishop and Sons,2,NULL
+999,Cynthia Hinton,2009-11-13,11,ICSE,Valentine-Gould,6,NULL
+1000,Robert Brewer,2007-10-17,11,CBSE,Santos Ltd,6,NULL
